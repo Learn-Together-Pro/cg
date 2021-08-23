@@ -12,7 +12,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Math](#math)
 - [Courses](#courses)
 - [Articles](#articles)
-- [Blogs](#blogs)
 - [Books](#books)
 - [Diagrams](#diagrams)
 - [Other lists](#other-lists)
@@ -85,12 +84,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover) by [Nathan Reed](https://www.reedbeta.com/)
 - [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg)
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/)
-
-## Blogs
-
-( _reading_ )
-
-- [Graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
+- [Blog about graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
 
 ## Books
 
