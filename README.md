@@ -87,6 +87,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg)
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/)
 - [Blog about graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
+- [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/)
 
 ## Books
 
@@ -96,9 +97,10 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ## Cheetsheets
 
-( _reading_ )
+( _cheetsheets_ )
 
 - [OpenGL State Machine](https://www.lri.fr/~mbl/ENS/IG2/docs/opengl-stm.pdf) by [Silicon Graphics](https://en.wikipedia.org/wiki/Silicon_Graphics)
+- [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org)
 
 ## Lists
 
@@ -133,4 +135,5 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _euler_ ) -- topic related to euler angles
 - ( _rotation_ ) -- topic related to rotation in space
 - ( _projection_ ) -- topic related to camera projections
+- ( _cheetsheets_ ) -- set of notes used for quick reference
 
