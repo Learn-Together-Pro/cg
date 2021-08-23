@@ -81,6 +81,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ( _article_ ) ( _reading_ )
 
+- [OpenGL introduction](https://learnopengl.com/Introduction)
+- [OpenGL tutorials](http://www.opengl-tutorial.org/)
 - [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
 - [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)
 - [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions)
