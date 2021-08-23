@@ -63,21 +63,25 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ( _math_ )
 
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ( _video_ ) ( _course_ )
 - [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ( _video_ )
 
 ## Courses
 
 ( _course_ )
 
+- [OpenGL online book](https://learnopengl.com) by [learnopengl.com](https://learnopengl.com) ( _reading_ )
+- [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/) ( _reading_ )
+- [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca) ( _reading_ )
+- [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) ( _reading_ )
 - [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ )
 - [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) ( _video_ )
-- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) ( _presentation_ )
-- [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/)
+- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) ( _presentation_ ) ( _reading_ )
+- [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/) ( _reading_ )
 - [OpenGL by Brian Will](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) ( _video_ )
-- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h)
+- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) ( _video_ )
 - [Computer Graphics University Of Auckland](Auhttps://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/)
-- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ( _video_ )
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ( _video_ ) ( _math_ )
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ( _video_ ) ( _math_ )
 
 ## Articles
 
@@ -86,12 +90,9 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com)
 - [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
 - [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing)
-- [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/)
 - [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)
 - [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions)
-- [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca)
 - [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
-- [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/)
 - [OpenGL Transformations](https://open.gl/transformations)
 - [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/)
 - [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection)
