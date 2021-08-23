@@ -12,6 +12,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Math](#math)
 - [Courses](#courses)
 - [Articles](#articles)
+- [Blogs](#blogs)
 - [Books](#books)
 - [Diagrams](#diagrams)
 - [Other lists](#other-lists)
@@ -38,7 +39,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ( _quaternions_ )
 
-- [Visualizing quaternions](https://eater.net/quaternions) ( _article_ ) ( _interactive_ )
+- [Visualizing quaternions](https://eater.net/quaternions) ( _article_ ) ( _interactive_ ) ( _course_ )
 - [Visualizing quaternions with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg) ( _video_ ) ( _interactive_ )
 - [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ) ( _interactive_ ) ( _video_ )
 - [Quaternion Rotation](https://youtu.be/4mXL751ko0w) ( _video_ )
@@ -74,26 +75,35 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) ( _presentation_ )
 - [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/)
 - [OpenGL by Brian Will](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) ( _video_ )
+- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h)
+- [Computer Graphics University Of Auckland](Auhttps://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/)
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ( _video_ )
 
 ## Articles
 
 ( _article_ ) ( _reading_ )
 
-- [OpenGL introduction](https://learnopengl.com/Introduction)
-- [OpenGL tutorials](http://www.opengl-tutorial.org/)
+- [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com)
 - [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
+- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing)
+- [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/)
 - [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)
 - [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions)
-- [OpenGL fundamentals](http://www.songho.ca/opengl)
+- [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca)
+- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
+- [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/)
 - [OpenGL Transformations](https://open.gl/transformations)
+- [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/)
 - [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection)
 - [Transformations for ui dev](https://habr.com/ru/post/520078)
-- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
 - [A couple of notes about Z](http://www.humus.name/index.php?ID=255)
 - [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover)
 - [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
-- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing)
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized)
+
+## Blogs
+
+- [Graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed][https://www.reedbeta.com/]
 
 ## Books
 
@@ -124,7 +134,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _course_ ) -- long course or a book
 - ( _article_ ) -- either single article or single video-tutorial
 - ( _not-finished_ ) -- not finished, too little to learn
-- - ( _interactive_ ) -- it is possible to interact and get feedback from the system
+- ( _interactive_ ) -- it is possible to interact and get feedback from the system
 - ( _reading_ ) -- material to read
 - ( _video_ ) -- material to watch
 - ( _list_ ) -- list of resources
