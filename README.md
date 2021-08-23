@@ -24,10 +24,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [How to translate, rotate, and scale points in 2D space, using basic algebra and trigonometry.](https://www.youtube.com/watch?v=SLWCc-mcd-I) ( _video_ ) ( _2d_ )
 - [Computer Graphics: 2D Transformations](https://youtu.be/pZIFBV2Hcxo) ( _video_ ) ( _2d_ )
 - [Computer Graphics: Homogeneous Coordinate Representation](https://youtu.be/mq2S1SzAD1s?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ ) ( _2d_ )
-
 - [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) ( _video_ ) ( _3d_ )
 - [Compute Graphics: 3D Transformations](https://youtu.be/1GmVN2zIAJQ?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ ) ( _3d_ )
-
 - [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) ( _video_ ) ( _rotation_ )
 - [Three-dimensional linear transformations](https://youtu.be/rHLEWRxRGiM) ( _video_ )
 
@@ -114,13 +112,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 ( _list_ )
 
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-- [Explorables](https://github.com/sp4ke/awesome-explorables)
-
-## Explorable explanations
-
-( _interactive_ )
-
-- [Explorable](https://explorabl.es/)
+- [Awesome explorables](https://github.com/sp4ke/awesome-explorables)
+- [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/)
 
 ## Markers legend
 
@@ -131,7 +124,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _course_ ) -- long course or a book
 - ( _article_ ) -- either single article or single video-tutorial
 - ( _not-finished_ ) -- not finished, too little to learn
-- ( _interactive_ ) -- it is possible to interact and get feedback from the system
+- - ( _interactive_ ) -- it is possible to interact and get feedback from the system
 - ( _reading_ ) -- material to read
 - ( _video_ ) -- material to watch
 - ( _list_ ) -- list of resources
