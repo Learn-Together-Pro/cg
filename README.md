@@ -58,6 +58,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 ( _projection_ )
 
 - [3d Projection](https://youtu.be/EUtbZ0egZDQ) ( _video_ )
+- [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) ( _reading_ ) ( _presentation_ )
 
 ## Math
 
@@ -72,6 +73,9 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ )
 - [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) ( _video_ )
+- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) ( _presentation_ )
+- [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/)
+- [OpenGL by Brian Will](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) ( _video_ )
 
 ## Articles
 
@@ -88,6 +92,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [A couple of notes about Z](http://www.humus.name/index.php?ID=255)
 - [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover)
 - [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
+- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing)
+- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized)
 
 ## Books
 
@@ -130,6 +136,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _project_ ) -- a project
 - ( _forum_ ) -- either chat or forum to comminicate with people
 - ( _algo_ ) -- algorithmic problems and solutions
+- ( _presentation_ ) -- article in form of slides
 - ( _math_ ) -- topic related to math
 - ( _2d_ ) -- topic related to 2d graphics
 - ( _3d_ ) -- topic related to 3d graphics
