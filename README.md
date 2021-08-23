@@ -104,7 +104,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ## Blogs
 
-- [Graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed][https://www.reedbeta.com/]
+- [Graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
 
 ## Books
 
