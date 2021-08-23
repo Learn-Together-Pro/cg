@@ -21,7 +21,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ( _transformations_ )
 
-- [How to translate, rotate, and scale points in 2D space, using basic algebra and trigonometry.](https://www.youtube.com/watch?v=SLWCc-mcd-I) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
+- [How to translate, rotate, and scale points in 2D space](https://www.youtube.com/watch?v=SLWCc-mcd-I) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
 - [Computer Graphics: 2D Transformations](https://youtu.be/pZIFBV2Hcxo) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) ( _video_ ) ( _2d_ )
 - [Computer Graphics: Homogeneous Coordinate Representation](https://youtu.be/mq2S1SzAD1s?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) ( _video_ ) ( _2d_ )
 - [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _3d_ )
