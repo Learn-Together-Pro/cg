@@ -13,8 +13,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Math](#math)
 - [Articles](#articles)
 - [Books](#books)
-- [Diagrams](#diagrams)
-- [Lists](#other-lists)
+- [Cheetsheets](#cheetsheets)
+- [Lists](#lists)
 - [Explorable explanations](#explorable-explanations)
 
 ## Courses
@@ -94,7 +94,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [OpenGL® Programming Guide: The Official Guide to Learning OpenGL®, Version 4.3](https://www.cs.utexas.edu/users/fussell/courses/cs354/handouts/Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf)
 
-## Diagrams
+## Cheetsheets
 
 ( _reading_ )
 
