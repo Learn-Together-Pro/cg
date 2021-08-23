@@ -101,6 +101,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [OpenGL State Machine](https://www.lri.fr/~mbl/ENS/IG2/docs/opengl-stm.pdf) by [Silicon Graphics](https://en.wikipedia.org/wiki/Silicon_Graphics)
 - [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org)
+- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf) by [Khronos Group](https://www.khronos.org)
 
 ## Lists
 
