@@ -79,7 +79,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/) ( _reading_ )
 - [OpenGL by Brian Will](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) ( _video_ )
 - [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) ( _video_ )
-- [Computer Graphics University Of Auckland](Auhttps://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/)
+- [Computer Graphics University Of Auckland](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/)
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ( _video_ ) ( _math_ )
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ( _video_ ) ( _math_ )
 
