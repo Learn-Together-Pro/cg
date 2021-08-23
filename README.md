@@ -4,18 +4,36 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ## Content
 
+- [Courses](#courses)
 - [Transformations](#transformations)
 - [Algorithms](#algorithms)
 - [Quaternions](#quaternions)
 - [Euler](#euler)
 - [Projection](#projection)
 - [Math](#math)
-- [Courses](#courses)
 - [Articles](#articles)
 - [Books](#books)
 - [Diagrams](#diagrams)
-- [Other lists](#other-lists)
+- [Lists](#other-lists)
 - [Explorable explanations](#explorable-explanations)
+
+## Courses
+
+( _course_ )
+
+- [OpenGL online book](https://learnopengl.com) by [learnopengl.com](https://learnopengl.com) ( _reading_ )
+- [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/) ( _reading_ )
+- [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca) ( _reading_ )
+- [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) ( _reading_ )
+- [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) ( _video_ )
+- [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) ( _video_ )
+- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) by [The Ohio State University](https://www.osu.edu/) ( _presentation_ ) ( _reading_ )
+- [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/) by [Stanford University](https://www.stanford.edu/) ( _reading_ )
+- [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ )
+- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) ( _video_ )
+- [Computer Graphics](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/) by [University Of Auckland](https://www.cs.auckland.ac.nz) ( _reading_ )
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _math_ )
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _video_ ) ( _math_ )
 
 ## Transformations
 
@@ -48,23 +66,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _video_ )
 
-## Courses
 
-( _course_ )
-
-- [OpenGL online book](https://learnopengl.com) by [learnopengl.com](https://learnopengl.com) ( _reading_ )
-- [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/) ( _reading_ )
-- [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca) ( _reading_ )
-- [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) ( _reading_ )
-- [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) ( _video_ )
-- [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) ( _video_ )
-- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) by [The Ohio State University](https://www.osu.edu/) ( _presentation_ ) ( _reading_ )
-- [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/) by [Stanford University](https://www.stanford.edu/) ( _reading_ )
-- [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ )
-- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) ( _video_ )
-- [Computer Graphics](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/) by [University Of Auckland](https://www.cs.auckland.ac.nz) ( _reading_ )
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _math_ )
-- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _video_ ) ( _math_ )
 
 ## Articles
 
@@ -98,7 +100,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [OpenGL State Machine](https://www.lri.fr/~mbl/ENS/IG2/docs/opengl-stm.pdf) by [Silicon Graphics](https://en.wikipedia.org/wiki/Silicon_Graphics)
 
-## Other lists
+## Lists
 
 ( _list_ )
 
