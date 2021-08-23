@@ -1,56 +1,67 @@
 # Graphics
 
-Curated collection of lists of useful resources to learn graphics together.
+Curated collection of lists of useful resources to learn computer graphics together.
 
 ## Content
 
+- [Transformations](#transformations)
+- [Algorithms](#algorithms)
+- [Quaternions](#quaternions)
+- [Euler](#euler)
+- [Projection](#projection)
+- [Math](#math)
+- [Courses](#courses)
+- [Articles](#articles)
+- [Books](#books)
+- [Diagrams](#diagrams)
+- [Other lists](#other-lists)
+- [Explorable explanations](#explorable-explanations)
 
+## Transformations
 
-## 2D Transformations
+( _transformations_ )
 
-- [How to translate, rotate, and scale points in 2D space, using basic algebra and trigonometry.](https://www.youtube.com/watch?v=SLWCc-mcd-I) ( _video_ )
-- [Computer Graphics: 2D Transformations](https://youtu.be/pZIFBV2Hcxo) ( _video_ )
-- [Computer Graphics: Homogeneous Coordinate Representation](https://youtu.be/mq2S1SzAD1s?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ )
+- [How to translate, rotate, and scale points in 2D space, using basic algebra and trigonometry.](https://www.youtube.com/watch?v=SLWCc-mcd-I) ( _video_ ) ( _2d_ )
+- [Computer Graphics: 2D Transformations](https://youtu.be/pZIFBV2Hcxo) ( _video_ ) ( _2d_ )
+- [Computer Graphics: Homogeneous Coordinate Representation](https://youtu.be/mq2S1SzAD1s?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ ) ( _2d_ )
 
-## 2D Algorithms
+- [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) ( _video_ ) ( _3d_ )
+- [Compute Graphics: 3D Transformations](https://youtu.be/1GmVN2zIAJQ?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ ) ( _3d_ )
 
-- [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) ( _video_ )
-- [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) ( _video_ )
+- [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) ( _video_ ) ( _rotation_ )
+- [Three-dimensional linear transformations](https://youtu.be/rHLEWRxRGiM) ( _video_ )
 
-## 3D Transformations
-- [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) ( _video_ )
-- [Compute Graphics: 3D Transformations](https://youtu.be/1GmVN2zIAJQ?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ )
+## Algorithms
+
+- [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) ( _video_ ) ( _2d_ )
+- [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) ( _video_ ) ( _2d_ )
 
 ## Quaternions
+
+( _quaternions_ )
 
 - [Visualizing quaternions](https://eater.net/quaternions) ( _article_ ) ( _interactive_ )
 - [Visualizing quaternions with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg) ( _video_ ) ( _interactive_ )
 - [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ) ( _interactive_ ) ( _video_ )
 - [Quaternion Rotation](https://youtu.be/4mXL751ko0w) ( _video_ )
 
-
 ## Euler
+
+( _euler_ )
 
 - [Gimbal lock](https://youtu.be/zc8b2Jo7mno) ( _video_ )
 - [Axis Angle & Euler Rotation](https://youtu.be/syQnn_xuB8U) ( _video_ )
 - [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) ( _video_ )
 
-
-## Transformations
-
-- [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) ( _video_ )
-- [Three-dimensional linear transformations](https://youtu.be/rHLEWRxRGiM) ( _video_ )
-
 ## Projection
+
+( _projection_ )
 
 - [3d Projection](https://youtu.be/EUtbZ0egZDQ) ( _video_ )
 
-
-## Courses
-
-- [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ ) ( _course_ )
-
 ## Math
+
+( _math_ )
 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ( _video_ ) ( _course_ )
 - [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ( _video_ )
@@ -59,6 +70,7 @@ Curated collection of lists of useful resources to learn graphics together.
 
 ( _course_ )
 
+- [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ )
 - [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) ( _video_ )
 
 ## Articles
@@ -102,7 +114,6 @@ Curated collection of lists of useful resources to learn graphics together.
 
 - [Explorable](https://explorabl.es/)
 
-
 ## Markers legend
 
 - ( _general_ ) -- general-purpose material
@@ -119,3 +130,12 @@ Curated collection of lists of useful resources to learn graphics together.
 - ( _project_ ) -- a project
 - ( _forum_ ) -- either chat or forum to comminicate with people
 - ( _algo_ ) -- algorithmic problems and solutions
+- ( _math_ ) -- topic related to math
+- ( _2d_ ) -- topic related to 2d graphics
+- ( _3d_ ) -- topic related to 3d graphics
+- ( _transformations_ ) -- transformations in 2d/3d
+- ( _quaternions_ ) -- topic related to quaternions
+- ( _euler_ ) -- topic related to euler angles
+- ( _rotation_ ) -- topic related to rotation in space
+- ( _projection_ ) -- topic related to camera projections
+
