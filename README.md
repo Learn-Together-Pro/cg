@@ -29,35 +29,19 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Compute Graphics: 3D Transformations](https://youtu.be/1GmVN2zIAJQ?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) ( _video_ ) ( _3d_ )
 - [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) ( _video_ ) ( _rotation_ )
 - [Three-dimensional linear transformations](https://youtu.be/rHLEWRxRGiM) ( _video_ )
+- [Visualizing quaternions](https://eater.net/quaternions) ( _reading_ ) ( _interactive_ ) ( _video_ ) ( _quaternions_ )
+- [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ) ( _interactive_ ) ( _video_ ) ( _quaternions_ )
+- [Quaternion Rotation](https://youtu.be/4mXL751ko0w) ( _video_ ) ( _quaternions_ )
+- [Gimbal lock](https://youtu.be/zc8b2Jo7mno) ( _video_ ) ( _euler_ )
+- [Axis Angle & Euler Rotation](https://youtu.be/syQnn_xuB8U) ( _video_ ) ( _euler_ )
+- [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) ( _video_ ) ( _euler_ )
+- [3d Projection](https://youtu.be/EUtbZ0egZDQ) ( _video_ ) ( _projection_ )
+- [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) ( _reading_ ) ( _presentation_ ) ( _projection_ )
 
 ## Algorithms
 
 - [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) ( _video_ ) ( _2d_ )
 - [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) ( _video_ ) ( _2d_ )
-
-## Quaternions
-
-( _quaternions_ )
-
-- [Visualizing quaternions](https://eater.net/quaternions) ( _article_ ) ( _interactive_ ) ( _course_ )
-- [Visualizing quaternions with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg) ( _video_ ) ( _interactive_ )
-- [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ) ( _interactive_ ) ( _video_ )
-- [Quaternion Rotation](https://youtu.be/4mXL751ko0w) ( _video_ )
-
-## Euler
-
-( _euler_ )
-
-- [Gimbal lock](https://youtu.be/zc8b2Jo7mno) ( _video_ )
-- [Axis Angle & Euler Rotation](https://youtu.be/syQnn_xuB8U) ( _video_ )
-- [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) ( _video_ )
-
-## Projection
-
-( _projection_ )
-
-- [3d Projection](https://youtu.be/EUtbZ0egZDQ) ( _video_ )
-- [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) ( _reading_ ) ( _presentation_ )
 
 ## Math
 
@@ -88,19 +72,19 @@ Curated collection of lists of useful resources to learn computer graphics toget
 ( _article_ ) ( _reading_ )
 
 - [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com)
-- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
-- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing)
-- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices)
-- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions)
-- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html)
-- [OpenGL Transformations](https://open.gl/transformations)
+- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems) by [learnopengl.com](https://learnopengl.com)
+- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com)
+- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org)
+- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org)
+- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/)
+- [OpenGL Transformations](https://open.gl/transformations) by [open.gl](https://open.gl/)
 - [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/)
-- [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection)
-- [Transformations for ui dev](https://habr.com/ru/post/520078)
-- [A couple of notes about Z](http://www.humus.name/index.php?ID=255)
-- [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover)
-- [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
-- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized)
+- [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection) by [duriansoftware.com](https://duriansoftware.com/)
+- [Transformations for ui dev](https://habr.com/ru/post/520078) by [sfi0zy](https://habr.com/ru/users/sfi0zy/)
+- [A couple of notes about Z](http://www.humus.name/index.php?ID=255) by [Emil Persson](http://www.humus.name/)
+- [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover) by [Nathan Reed](https://www.reedbeta.com/)
+- [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg)
+- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/)
 
 ## Blogs
 
