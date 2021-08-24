@@ -34,6 +34,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Computer Graphics](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/) by [University Of Auckland](https://www.cs.auckland.ac.nz) ( _reading_ )
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _math_ )
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _video_ ) ( _math_ )
+- [Computer Vision and OpenCV Tutorial in C++](https://www.youtube.com/playlist?list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn) by [The Coding Lib](https://www.youtube.com/c/TheCodingLibrary/) ( _video_ ) ( _computer-vision_ )
+- [OpenCV Object Detection in Games](https://www.youtube.com/playlist?list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI) ( _video_ ) ( _computer-vision_ ) by [Learn Code By Gaming](https://www.youtube.com/c/LearnCodeByGaming)
 
 ## Transformations
 
@@ -137,4 +139,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _rotation_ ) -- topic related to rotation in space
 - ( _projection_ ) -- topic related to camera projections
 - ( _cheetsheets_ ) -- set of notes used for quick reference
+- ( _computer-vision_ ) -- topic related to computer vision
+
 
