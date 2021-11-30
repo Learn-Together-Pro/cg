@@ -17,6 +17,35 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Lists](#lists)
 - [Explorable explanations](#explorable-explanations)
 
+## Tags legend
+
+- ( _general_ ) -- general-purpose material
+- ( _specific_ ) -- domain-specific material
+- ( _official_ ) -- official material
+- ( _non-eng_ ) -- non-english language
+- ( _course_ ) -- long course or a book
+- ( _article_ ) -- either single article or single video-tutorial
+- ( _not-finished_ ) -- not finished, too little to learn
+- ( _interactive_ ) -- it is possible to interact and get feedback from the system
+- ( _reading_ ) -- material to read
+- ( _video_ ) -- material to watch
+- ( _list_ ) -- list of resources
+- ( _project_ ) -- a project
+- ( _forum_ ) -- either chat or forum to comminicate with people
+- ( _algo_ ) -- algorithmic problems and solutions
+- ( _presentation_ ) -- article in form of slides
+- ( _math_ ) -- topic related to math
+- ( _2d_ ) -- topic related to 2d graphics
+- ( _3d_ ) -- topic related to 3d graphics
+- ( _transformations_ ) -- transformations in 2d/3d
+- ( _quaternions_ ) -- topic related to quaternions
+- ( _euler_ ) -- topic related to euler angles
+- ( _rotation_ ) -- topic related to rotation in space
+- ( _projection_ ) -- topic related to camera projections
+- ( _cheetsheets_ ) -- set of notes used for quick reference
+- ( _computer-vision_ ) -- topic related to computer vision
+
+
 ## Courses
 
 ( _course_ )
@@ -112,33 +141,5 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier)
 - [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke)
 - [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/)
-
-## Markers legend
-
-- ( _general_ ) -- general-purpose material
-- ( _specific_ ) -- domain-specific material
-- ( _official_ ) -- official material
-- ( _non-eng_ ) -- non-english language
-- ( _course_ ) -- long course or a book
-- ( _article_ ) -- either single article or single video-tutorial
-- ( _not-finished_ ) -- not finished, too little to learn
-- ( _interactive_ ) -- it is possible to interact and get feedback from the system
-- ( _reading_ ) -- material to read
-- ( _video_ ) -- material to watch
-- ( _list_ ) -- list of resources
-- ( _project_ ) -- a project
-- ( _forum_ ) -- either chat or forum to comminicate with people
-- ( _algo_ ) -- algorithmic problems and solutions
-- ( _presentation_ ) -- article in form of slides
-- ( _math_ ) -- topic related to math
-- ( _2d_ ) -- topic related to 2d graphics
-- ( _3d_ ) -- topic related to 3d graphics
-- ( _transformations_ ) -- transformations in 2d/3d
-- ( _quaternions_ ) -- topic related to quaternions
-- ( _euler_ ) -- topic related to euler angles
-- ( _rotation_ ) -- topic related to rotation in space
-- ( _projection_ ) -- topic related to camera projections
-- ( _cheetsheets_ ) -- set of notes used for quick reference
-- ( _computer-vision_ ) -- topic related to computer vision
 
 
