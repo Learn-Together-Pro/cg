@@ -44,7 +44,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _projection_ ) -- topic related to camera projections
 - ( _cheetsheets_ ) -- set of notes used for quick reference
 - ( _computer-vision_ ) -- topic related to computer vision
-
+- ( _oit_ ) -- topic related to order-independent transparency
+- ( _example_ ) -- code sample that can be executed
 
 ## Courses
 
@@ -119,6 +120,30 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/)
 - [Blog about graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
 - [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/)
+
+
+## Order-Independent Transparency
+
+( _oit_ )
+
+- [Depth peeling example using Three.js](https://raw.githack.com/pailhead/three.js/depth-peel-stencil/examples/webgl_materials_depthpeel.html) by [pailhead](https://dusanbosnjak.com) ( _example_ )
+- [Depth peeling paper #1](https://my.eng.utah.edu/~cs5610/handouts/order_independent_transparency.pdf) by [Cass Everitt](cass@nvidia.com) ( _official_ ) ( _article_ )
+- [Depth peeling paper #2](https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf) by [Cass Everitt](cass@nvidia.com) ( _official_ ) ( _article_ )
+- [Dual depth peeling paper](https://my.eng.utah.edu/~cs5610/handouts/DualDepthPeeling.pdf) by [Louis Bavoil](https://www.nvidia.com) ( _official_ ) ( _article_ )
+- [Layered weighted blended method paper #1](https://jcgt.org/published/0002/02/09/) [Morgan McGuire](http://casual-effects.blogspot.com/) ( _official_ ) ( _article_ )
+- [Layered weighted blended method paper #2](https://graphics.tudelft.nl/Publications-new/2021/FEE21/layered_weighted_blended_order_independent_transparency.pdf) by [Fabian Friederichs](https://graphics.tudelft.nl/) ( _official_ ) ( _article_ )
+- [Layered weighted blended method acticle](http://casual-effects.blogspot.com/2014/03/weighted-blended-order-independent.html) by [Morgan McGuire](http://casual-effects.blogspot.com/) ( _article_ )
+- [Depth-fighting aware methods for multifragment rendering](https://abasilak.github.io/papers/journals/tvcg2013/paper.pdf) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _article_ )
+- [Multi-layer depth peeling via fragment sort](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/06/tr-2006-81.pdf) by [Baoquan Liu](https://www.microsoft.com/en-us/research/search/?q=Baoquan+Liu) ( _official_ ) ( _article_ )
+- [Implementing weighted blended method](http://casual-effects.blogspot.com/2015/03/implemented-weighted-blended-order.html) by [Morgan McGuire](http://casual-effects.blogspot.com/) ( _article_ )
+- [Weighted blended method example using Three.js](https://raw.githack.com/arose/three.js/oit/examples/webgl_oit.html) ( _example_ )
+- [Weighted blended method example using WebGL](https://tsherif.github.io/webgl2examples/oit.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
+- [Dual depth peeling using WebGL](https://tsherif.github.io/webgl2examples/oit-dual-depth-peeling.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
+- [Dual depth peeling implemenetation using WebGL](https://medium.com/@shrekshao_71662/dual-depth-peeling-implementation-in-webgl-11baa061ba4b) by [ShrekShao](https://medium.com/@shrekshao_71662) ( _example_ )
+- [Depth peeling via fragment with comparison to other methods](https://www.highperformancegraphics.org/previous/www_2009/presentations/liu-bucket.pdf) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _article_ )
+- [Weighted blended method example using Cesium](http://bagnell.github.io/cesium/Apps/Sandcastle/gallery/OIT.html) by [Dan Bagnell](https://github.com/bagnell) ( _example_ )
+- [Collection of information about multifragment rendering](https://github.com/cgaueb/MFR) by [Computer Graphics AUEB](http://graphics.cs.aueb.gr/graphics/index.html) ( _project_ )
+- [Deep G-Buffers for stable global illumination approximation](https://research.nvidia.com/sites/default/files/pubs/2016-06_Deep-G-Buffers-for/Mara2016DeepGBuffer-extended-bright.pdf) by [Michael Mara](https://research.nvidia.com/search/node/Michael%20Mara) ( _official_ ) ( _article_ )
 
 ## Books
 
