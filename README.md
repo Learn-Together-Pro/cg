@@ -140,10 +140,16 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Weighted blended method example using WebGL](https://tsherif.github.io/webgl2examples/oit.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
 - [Dual depth peeling using WebGL](https://tsherif.github.io/webgl2examples/oit-dual-depth-peeling.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
 - [Dual depth peeling implemenetation using WebGL](https://medium.com/@shrekshao_71662/dual-depth-peeling-implementation-in-webgl-11baa061ba4b) by [ShrekShao](https://medium.com/@shrekshao_71662) ( _example_ )
-- [Depth peeling via fragment with comparison to other methods](https://www.highperformancegraphics.org/previous/www_2009/presentations/liu-bucket.pdf) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _article_ )
+- [Depth peeling via bucket sort presentation](https://www.highperformancegraphics.org/previous/www_2009/presentations/liu-bucket.pdf) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _presentation_ )
+- [Depth peeling via bucket sort](https://www.semanticscholar.org/paper/Efficient-depth-peeling-via-bucket-sort-Liu-Huang/978a83ddf48c59f18529d69a9a1d0f0428881db0) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _article_ )
+<!-- - [Depth peeling via bucket sort #2] (https://drive.google.com/file/d/12JYmusKSvpsdVua1emdqIPJTY7vBFKzq/view) -->
+<!-- - [Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine": Depth peeling via bucket sort] (https://drive.google.com/file/d/1199PPCQka5oFZq9_Q09htGEeriLLnPO6/view) -->
+Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine
 - [Weighted blended method example using Cesium](http://bagnell.github.io/cesium/Apps/Sandcastle/gallery/OIT.html) by [Dan Bagnell](https://github.com/bagnell) ( _example_ )
 - [Collection of information about multifragment rendering](https://github.com/cgaueb/MFR) by [Computer Graphics AUEB](http://graphics.cs.aueb.gr/graphics/index.html) ( _project_ )
 - [Deep G-Buffers for stable global illumination approximation](https://research.nvidia.com/sites/default/files/pubs/2016-06_Deep-G-Buffers-for/Mara2016DeepGBuffer-extended-bright.pdf) by [Michael Mara](https://research.nvidia.com/search/node/Michael%20Mara) ( _official_ ) ( _article_ )
+[Fast and Accurate Single-Pass A-Buffer using OpenGL 4.0+](https://blog.icare3d.org/2010/06/fast-and-accurate-single-pass-buffer.html) by [Cyril Crassin](https://research.nvidia.com/person/cyril-crassin) ( _article_ )
+[A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _presentation_ )
 
 ## Books
 
