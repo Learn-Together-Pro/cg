@@ -17,6 +17,36 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Lists](#lists)
 - [Explorable explanations](#explorable-explanations)
 
+## Tags legend
+
+- ( _general_ ) -- general-purpose material
+- ( _specific_ ) -- domain-specific material
+- ( _official_ ) -- official material
+- ( _non-eng_ ) -- non-english language
+- ( _course_ ) -- long course or a book
+- ( _article_ ) -- either single article or single video-tutorial
+- ( _not-finished_ ) -- not finished, too little to learn
+- ( _interactive_ ) -- it is possible to interact and get feedback from the system
+- ( _reading_ ) -- material to read
+- ( _video_ ) -- material to watch
+- ( _list_ ) -- list of resources
+- ( _project_ ) -- a project
+- ( _forum_ ) -- either chat or forum to comminicate with people
+- ( _algo_ ) -- algorithmic problems and solutions
+- ( _presentation_ ) -- article in form of slides
+- ( _math_ ) -- topic related to math
+- ( _2d_ ) -- topic related to 2d graphics
+- ( _3d_ ) -- topic related to 3d graphics
+- ( _transformations_ ) -- transformations in 2d/3d
+- ( _quaternions_ ) -- topic related to quaternions
+- ( _euler_ ) -- topic related to euler angles
+- ( _rotation_ ) -- topic related to rotation in space
+- ( _projection_ ) -- topic related to camera projections
+- ( _cheetsheets_ ) -- set of notes used for quick reference
+- ( _computer-vision_ ) -- topic related to computer vision
+- ( _oit_ ) -- topic related to order-independent transparency
+- ( _example_ ) -- code sample that can be executed
+
 ## Courses
 
 ( _course_ )
@@ -91,6 +121,36 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Blog about graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
 - [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/)
 
+
+## Order-Independent Transparency
+
+( _oit_ )
+
+- [Depth peeling example using Three.js](https://raw.githack.com/pailhead/three.js/depth-peel-stencil/examples/webgl_materials_depthpeel.html) by [pailhead](https://dusanbosnjak.com) ( _example_ )
+- [Depth peeling paper #1](https://my.eng.utah.edu/~cs5610/handouts/order_independent_transparency.pdf) by [Cass Everitt](cass@nvidia.com) ( _official_ ) ( _article_ )
+- [Depth peeling paper #2](https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf) by [Cass Everitt](cass@nvidia.com) ( _official_ ) ( _article_ )
+- [Dual depth peeling paper](https://my.eng.utah.edu/~cs5610/handouts/DualDepthPeeling.pdf) by [Louis Bavoil](https://www.nvidia.com) ( _official_ ) ( _article_ )
+- [Layered weighted blended method paper #1](https://jcgt.org/published/0002/02/09/) [Morgan McGuire](http://casual-effects.blogspot.com/) ( _official_ ) ( _article_ )
+- [Layered weighted blended method paper #2](https://graphics.tudelft.nl/Publications-new/2021/FEE21/layered_weighted_blended_order_independent_transparency.pdf) by [Fabian Friederichs](https://graphics.tudelft.nl/) ( _official_ ) ( _article_ )
+- [Layered weighted blended method acticle](http://casual-effects.blogspot.com/2014/03/weighted-blended-order-independent.html) by [Morgan McGuire](http://casual-effects.blogspot.com/) ( _article_ )
+- [Depth-fighting aware methods for multifragment rendering](https://abasilak.github.io/papers/journals/tvcg2013/paper.pdf) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _article_ )
+- [Multi-layer depth peeling via fragment sort](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/06/tr-2006-81.pdf) by [Baoquan Liu](https://www.microsoft.com/en-us/research/search/?q=Baoquan+Liu) ( _official_ ) ( _article_ )
+- [Implementing weighted blended method](http://casual-effects.blogspot.com/2015/03/implemented-weighted-blended-order.html) by [Morgan McGuire](http://casual-effects.blogspot.com/) ( _article_ )
+- [Weighted blended method example using Three.js](https://raw.githack.com/arose/three.js/oit/examples/webgl_oit.html) ( _example_ )
+- [Weighted blended method example using WebGL](https://tsherif.github.io/webgl2examples/oit.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
+- [Dual depth peeling using WebGL](https://tsherif.github.io/webgl2examples/oit-dual-depth-peeling.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
+- [Dual depth peeling implemenetation using WebGL](https://medium.com/@shrekshao_71662/dual-depth-peeling-implementation-in-webgl-11baa061ba4b) by [ShrekShao](https://medium.com/@shrekshao_71662) ( _example_ )
+- [Depth peeling via bucket sort presentation](https://www.highperformancegraphics.org/previous/www_2009/presentations/liu-bucket.pdf) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _presentation_ )
+- [Depth peeling via bucket sort](https://www.semanticscholar.org/paper/Efficient-depth-peeling-via-bucket-sort-Liu-Huang/978a83ddf48c59f18529d69a9a1d0f0428881db0) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _article_ )
+<!-- - [Depth peeling via bucket sort #2] (https://drive.google.com/file/d/12JYmusKSvpsdVua1emdqIPJTY7vBFKzq/view) -->
+<!-- - [Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine": Depth peeling via bucket sort] (https://drive.google.com/file/d/1199PPCQka5oFZq9_Q09htGEeriLLnPO6/view) -->
+Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine
+- [Weighted blended method example using Cesium](http://bagnell.github.io/cesium/Apps/Sandcastle/gallery/OIT.html) by [Dan Bagnell](https://github.com/bagnell) ( _example_ )
+- [Collection of information about multifragment rendering](https://github.com/cgaueb/MFR) by [Computer Graphics AUEB](http://graphics.cs.aueb.gr/graphics/index.html) ( _project_ )
+- [Deep G-Buffers for stable global illumination approximation](https://research.nvidia.com/sites/default/files/pubs/2016-06_Deep-G-Buffers-for/Mara2016DeepGBuffer-extended-bright.pdf) by [Michael Mara](https://research.nvidia.com/search/node/Michael%20Mara) ( _official_ ) ( _article_ )
+[Fast and Accurate Single-Pass A-Buffer using OpenGL 4.0+](https://blog.icare3d.org/2010/06/fast-and-accurate-single-pass-buffer.html) by [Cyril Crassin](https://research.nvidia.com/person/cyril-crassin) ( _article_ )
+[A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _presentation_ )
+
 ## Books
 
 ( _course_ ) ( _reading_ )
@@ -112,33 +172,5 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier)
 - [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke)
 - [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/)
-
-## Markers legend
-
-- ( _general_ ) -- general-purpose material
-- ( _specific_ ) -- domain-specific material
-- ( _official_ ) -- official material
-- ( _non-eng_ ) -- non-english language
-- ( _course_ ) -- long course or a book
-- ( _article_ ) -- either single article or single video-tutorial
-- ( _not-finished_ ) -- not finished, too little to learn
-- ( _interactive_ ) -- it is possible to interact and get feedback from the system
-- ( _reading_ ) -- material to read
-- ( _video_ ) -- material to watch
-- ( _list_ ) -- list of resources
-- ( _project_ ) -- a project
-- ( _forum_ ) -- either chat or forum to comminicate with people
-- ( _algo_ ) -- algorithmic problems and solutions
-- ( _presentation_ ) -- article in form of slides
-- ( _math_ ) -- topic related to math
-- ( _2d_ ) -- topic related to 2d graphics
-- ( _3d_ ) -- topic related to 3d graphics
-- ( _transformations_ ) -- transformations in 2d/3d
-- ( _quaternions_ ) -- topic related to quaternions
-- ( _euler_ ) -- topic related to euler angles
-- ( _rotation_ ) -- topic related to rotation in space
-- ( _projection_ ) -- topic related to camera projections
-- ( _cheetsheets_ ) -- set of notes used for quick reference
-- ( _computer-vision_ ) -- topic related to computer vision
 
 
