@@ -2,21 +2,6 @@
 
 Curated collection of lists of useful resources to learn computer graphics together.
 
-## Content
-
-- [Courses](#courses)
-- [Transformations](#transformations)
-- [Algorithms](#algorithms)
-- [Quaternions](#quaternions)
-- [Euler](#euler)
-- [Projection](#projection)
-- [Math](#math)
-- [Articles](#articles)
-- [Books](#books)
-- [Cheetsheets](#cheetsheets)
-- [Lists](#lists)
-- [Explorable explanations](#explorable-explanations)
-
 ## Tags legend
 
 - ( _general_ ) -- general-purpose material
@@ -37,6 +22,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _math_ ) -- topic related to math
 - ( _2d_ ) -- topic related to 2d graphics
 - ( _3d_ ) -- topic related to 3d graphics
+- ( _line_ ) -- topic related to drawing lines
 - ( _transformations_ ) -- transformations in 2d/3d
 - ( _quaternions_ ) -- topic related to quaternions
 - ( _euler_ ) -- topic related to euler angles
@@ -47,25 +33,40 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _oit_ ) -- topic related to order-independent transparency
 - ( _example_ ) -- code sample that can be executed
 
-## Courses
+## General
 
-( _course_ )
+- [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) ( _course_ ) ( _video_ )
+- [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) ( _course_ ) ( _video_ )
+- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) by [The Ohio State University](https://www.osu.edu/) ( _course_ ) ( _presentation_ ) ( _reading_ )
+- [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/) by [Stanford University](https://www.stanford.edu/) ( _course_ ) ( _reading_ )
+- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) ( _course_ ) ( _video_ )
+- [Computer Graphics](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/) by [University Of Auckland](https://www.cs.auckland.ac.nz) ( _course_ ) ( _reading_ )
+- [Computer Vision and OpenCV Tutorial in C++](https://www.youtube.com/playlist?list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn) by [The Coding Lib](https://www.youtube.com/c/TheCodingLibrary/) ( _course_ ) ( _video_ ) ( _computer-vision_ )
+- [OpenCV Object Detection in Games](https://www.youtube.com/playlist?list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI) by [Learn Code By Gaming](https://www.youtube.com/c/LearnCodeByGaming) ( _course_ ) ( _video_ ) ( _computer-vision_ )
+- [Blog about graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) ( _reading_ )
 
-- [OpenGL online book](https://learnopengl.com) by [learnopengl.com](https://learnopengl.com) ( _reading_ )
-- [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/) ( _reading_ )
-- [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca) ( _reading_ )
-- [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) ( _reading_ )
-- [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) ( _video_ )
-- [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) ( _video_ )
-- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) by [The Ohio State University](https://www.osu.edu/) ( _presentation_ ) ( _reading_ )
-- [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/) by [Stanford University](https://www.stanford.edu/) ( _reading_ )
-- [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ )
-- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) ( _video_ )
-- [Computer Graphics](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/) by [University Of Auckland](https://www.cs.auckland.ac.nz) ( _reading_ )
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _math_ )
-- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _video_ ) ( _math_ )
-- [Computer Vision and OpenCV Tutorial in C++](https://www.youtube.com/playlist?list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn) by [The Coding Lib](https://www.youtube.com/c/TheCodingLibrary/) ( _video_ ) ( _computer-vision_ )
-- [OpenCV Object Detection in Games](https://www.youtube.com/playlist?list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI) ( _video_ ) ( _computer-vision_ ) by [Learn Code By Gaming](https://www.youtube.com/c/LearnCodeByGaming)
+## Rendering backends
+
+- [OpenGL online book](https://learnopengl.com) by [learnopengl.com](https://learnopengl.com) ( _course_ ) ( _reading_ )
+- [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/) ( _course_ ) ( _reading_ )
+- [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca) ( _course_ ) ( _reading_ )
+- [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) ( _course_ ) ( _reading_ )
+- [OpenGL® Programming Guide: The Official Guide to Learning OpenGL®, Version 4.3](https://www.cs.utexas.edu/users/fussell/courses/cs354/handouts/Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf) ( _course_ ) ( _reading_ )
+- [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _course_ ) ( _video_ )
+- [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg) ( _article_ ) ( _reading_ )
+- [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) ( _article_ ) ( _reading_ )
+- [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/) ( _article_ ) ( _reading_ )
+- [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/) ( _article_ ) ( _reading_ )
+- [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org) ( _cheetsheets_ )
+- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf) by [Khronos Group](https://www.khronos.org) ( _cheetsheets_ )
+
+## Lines
+
+( _line_ )
+
+- [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
+- [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
+
 
 ## Transformations
 
@@ -86,38 +87,23 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) by [Christopher Lum](https://www.youtube.com/channel/UCPUuVY7w8brL0r__P8UBgyQ) ( _video_ ) ( _euler_ )
 - [3d Projection](https://youtu.be/EUtbZ0egZDQ) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _projection_ )
 - [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) by [University Of Auckland](www.cs.auckland.ac.nz) ( _reading_ ) ( _presentation_ ) ( _projection_ )
-
-## Algorithms
-
-- [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
-- [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
+- [Transformations for ui dev](https://habr.com/ru/post/520078) by [sfi0zy](https://habr.com/ru/users/sfi0zy/) ( _article_ ) ( _reading_ )
+- [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) ( _reading_ )
+- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) ( _reading_ )
+- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/) ( _article_ ) ( _reading_ )
+- [OpenGL Transformations](https://open.gl/transformations) by [open.gl](https://open.gl/) ( _article_ ) ( _reading_ )
+- [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection) by [duriansoftware.com](https://duriansoftware.com/) ( _article_ ) ( _reading_ )
+- [A couple of notes about Z](http://www.humus.name/index.php?ID=255) by [Emil Persson](http://www.humus.name/) ( _article_ ) ( _reading_ )
 
 ## Math
 
 ( _math_ )
 
 - [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _video_ )
-
-## Articles
-
-( _article_ ) ( _reading_ )
-
-- [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com)
-- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems) by [learnopengl.com](https://learnopengl.com)
-- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com)
-- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org)
-- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org)
-- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/)
-- [OpenGL Transformations](https://open.gl/transformations) by [open.gl](https://open.gl/)
-- [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/)
-- [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection) by [duriansoftware.com](https://duriansoftware.com/)
-- [Transformations for ui dev](https://habr.com/ru/post/520078) by [sfi0zy](https://habr.com/ru/users/sfi0zy/)
-- [A couple of notes about Z](http://www.humus.name/index.php?ID=255) by [Emil Persson](http://www.humus.name/)
-- [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover) by [Nathan Reed](https://www.reedbeta.com/)
-- [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg)
-- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/)
-- [Blog about graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
-- [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/)
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _course_ ) ( _video_ ) ( _math_ )
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _course_ ) ( _video_ ) ( _math_ )
+- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems) by [learnopengl.com](https://learnopengl.com) ( _article_ ) ( _reading_ )
+- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) ( _reading_ )
 
 ## Order-Independent Transparency
 
@@ -141,26 +127,14 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Depth peeling via bucket sort](https://www.semanticscholar.org/paper/Efficient-depth-peeling-via-bucket-sort-Liu-Huang/978a83ddf48c59f18529d69a9a1d0f0428881db0) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _article_ )
 <!-- - [Depth peeling via bucket sort #2] (https://drive.google.com/file/d/12JYmusKSvpsdVua1emdqIPJTY7vBFKzq/view) -->
 <!-- - [Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine": Depth peeling via bucket sort] (https://drive.google.com/file/d/1199PPCQka5oFZq9_Q09htGEeriLLnPO6/view) -->
-Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine
+<!-- Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine -->
 - [Weighted blended method example using Cesium](http://bagnell.github.io/cesium/Apps/Sandcastle/gallery/OIT.html) by [Dan Bagnell](https://github.com/bagnell) ( _example_ )
 - [Collection of information about multifragment rendering](https://github.com/cgaueb/MFR) by [Computer Graphics AUEB](http://graphics.cs.aueb.gr/graphics/index.html) ( _project_ )
 - [Deep G-Buffers for stable global illumination approximation](https://research.nvidia.com/sites/default/files/pubs/2016-06_Deep-G-Buffers-for/Mara2016DeepGBuffer-extended-bright.pdf) by [Michael Mara](https://research.nvidia.com/search/node/Michael%20Mara) ( _official_ ) ( _article_ )
-[Fast and Accurate Single-Pass A-Buffer using OpenGL 4.0+](https://blog.icare3d.org/2010/06/fast-and-accurate-single-pass-buffer.html) by [Cyril Crassin](https://research.nvidia.com/person/cyril-crassin) ( _article_ )
-[A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _presentation_ )
-
-## Books
-
-( _course_ ) ( _reading_ )
-
-- [OpenGL® Programming Guide: The Official Guide to Learning OpenGL®, Version 4.3](https://www.cs.utexas.edu/users/fussell/courses/cs354/handouts/Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf)
-
-## Cheetsheets
-
-( _cheetsheets_ )
-
-- [OpenGL State Machine](https://www.lri.fr/~mbl/ENS/IG2/docs/opengl-stm.pdf) by [Silicon Graphics](https://en.wikipedia.org/wiki/Silicon_Graphics)
-- [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org)
-- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf) by [Khronos Group](https://www.khronos.org)
+- [Fast and Accurate Single-Pass A-Buffer using OpenGL 4.0+](https://blog.icare3d.org/2010/06/fast-and-accurate-single-pass-buffer.html) by [Cyril Crassin](https://research.nvidia.com/person/cyril-crassin) ( _article_ )
+- [A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _presentation_ )
+- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) ( _reading_ )
+- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com) ( _article_ ) ( _reading_ )
 
 ## Lists
 
