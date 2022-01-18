@@ -66,6 +66,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
 - [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ( _video_ ) ( _2d_ )
+- [2D lines with round joints using WebGL shaders](http://nanodesu.info/oldstuff/2D-lines-with-round-joints-using-WebGL-shaders/) by [ColaColin](https://github.com/ColaColin) ( _article_ ) ( _reading_ )
 
 
 ## Transformations
