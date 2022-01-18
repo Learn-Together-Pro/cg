@@ -98,8 +98,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) ( _video_ )
 
-
-
 ## Articles
 
 ( _article_ ) ( _reading_ )
@@ -120,7 +118,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/)
 - [Blog about graphics](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/)
 - [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/)
-
 
 ## Order-Independent Transparency
 
@@ -172,5 +169,4 @@ Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier)
 - [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke)
 - [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/)
-
 
