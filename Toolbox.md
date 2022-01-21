@@ -15,11 +15,12 @@
 
 ## Line
 
-- [`line_drawing` - library with line drawing algorithms](https://github.com/expenses/line_drawing) by [Ashley](https://github.com/expenses) ( _rust_ )
+- [line_drawing](https://github.com/expenses/line_drawing) by [Ashley](https://github.com/expenses) : library with line drawing algorithms ( _rust_ )
 - [regl-gpu-lines](https://github.com/rreusser/regl-gpu-lines) by [Ricky Reusser](https://github.com/rreusser) : library for drawing lines ( _lib_ ) ( _js_ )
 - [webgl-shader-2d-lines](https://github.com/ColaColin/webgl-shader-2d-lines) by [ColaColin](https://github.com/ColaColin) : drawing 2d lines with WebGL shader ( _shader_ ) ( _js_ )
 - [shader-3dcurve](https://github.com/vicrucann/shader-3dcurve) by [Victoria Rudakova](https://github.com/vicrucann) : draw 3d curve line ( _shader_ ) ( _c/c++_ )
-- [bevy_polyline](https://github.com/ForesightMiningSoftwareCorporation/bevy_polyline) by [Foresight Mining Software Corporation ](https://github.com/ForesightMiningSoftwareCorporation) : draw 3d polylines ( _shader_ ) ( _c/c++_ )
+- [bevy_polyline](https://github.com/ForesightMiningSoftwareCorporation/bevy_polyline) by [Foresight Mining Software Corporation ](https://github.com/ForesightMiningSoftwareCorporation) : draw 3d polylines ( _shader_ ) ( _rust_ )
+- [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines) by [Michael Palmos](https://github.com/Toqozz) : draw 3d debug lines ( _shader_ ) ( _rust_ )
 
 ## Graphics
 
