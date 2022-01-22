@@ -136,6 +136,15 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _presentation_ )
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) ( _reading_ )
 - [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com) ( _article_ ) ( _reading_ )
+- [Stochastic Layered Alpha Blending](http://cwyman.org/presentations/2016_SIGGRAPH_StochasticLayeredAlphaBlending.pdf) by [Chris Wyman](http://cwyman.org/) ( _official_ ) ( _presentation_ )
+- [Order-independent transparency and anti-aliasing](http://www.borealorienteering.com/tech_oit_and_aa) by [Jani Honkanen](borealorienteering.com) ( _article_ ) ( _reading_ )
+- [Stochastic Transparency](http://enderton.org/eric/pub/stochtransp-tvcg.pdf) by [Eric Enderton](http://enderton.org/)
+- [A demo for order independent transparency using pixel synchronization](https://github.com/chrismile/PixelSyncOIT) by [Christoph Neuhauser](https://github.com/chrismile/) ( _example_ )
+
+## Anti-Aliasing
+
+- [A Quick Overview of MSAA](https://therealmjp.github.io/posts/msaa-overview/) by [MJP](https://therealmjp.github.io/posts/) ( _article_ ) ( _reading_ )
+
 
 ## Lists
 
