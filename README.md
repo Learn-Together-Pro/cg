@@ -151,6 +151,11 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [A Quick Overview of MSAA](https://therealmjp.github.io/posts/msaa-overview/) by [MJP](https://therealmjp.github.io/posts/) ( _article_ ) ( _reading_ )
 - [Alpha to coverage with MSAA tricks](http://www.humus.name/index.php?page=3D&ID=61) by [Humus](http://www.humus.name) ( _oit_ )
 - [Alpha test and alpha blend combined to get smooth edges](http://blog.wolfire.com/2009/02/rendering-plants-with-smooth-edges/) by [Wolfire](http://www.wolfire.com/)
+- [Superior Alpha to coverage technique](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f#620e) by [Ben Golus](https://bgolus.medium.com/)
+
+## Interesting blogs
+
+- [Ben Golus's Blog](https://bgolus.medium.com/) by [Ben Golus](https://bgolus.medium.com/)
 
 ## Lists
 
