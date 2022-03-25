@@ -140,5 +140,3 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _projection_ ) -- topic related to camera projections
 - ( _cheetsheets_ ) -- set of notes used for quick reference
 - ( _computer-vision_ ) -- topic related to computer vision
-
-
