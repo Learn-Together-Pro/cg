@@ -2,6 +2,8 @@
 
 Curated collection of lists of useful resources to learn computer graphics together.
 
+<!-- - []() by []() : -->
+
 ## Tags legend
 
 - ( _general_ ) -- general-purpose material
@@ -31,6 +33,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _cheetsheets_ ) -- set of notes used for quick reference
 - ( _computer-vision_ ) -- topic related to computer vision
 - ( _oit_ ) -- topic related to order-independent transparency
+- ( _aa_ ) -- anti aliasing techniques
 - ( _example_ ) -- code sample that can be executed
 
 ## General
@@ -137,6 +140,23 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _presentation_ )
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) ( _reading_ )
 - [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com) ( _article_ ) ( _reading_ )
+- [Stochastic Layered Alpha Blending](http://cwyman.org/presentations/2016_SIGGRAPH_StochasticLayeredAlphaBlending.pdf) by [Chris Wyman](http://cwyman.org/) ( _official_ ) ( _presentation_ )
+- [Order-independent transparency and anti-aliasing](http://www.borealorienteering.com/tech_oit_and_aa) by [Jani Honkanen](borealorienteering.com) ( _article_ ) ( _reading_ )
+- [Stochastic Transparency](http://enderton.org/eric/pub/stochtransp-tvcg.pdf) by [Eric Enderton](http://enderton.org/)
+- [A demo for order independent transparency using pixel synchronization](https://github.com/chrismile/PixelSyncOIT) by [Christoph Neuhauser](https://github.com/chrismile/) ( _example_ )
+
+## Anti-Aliasing
+
+( _aa_ )
+
+- [A Quick Overview of MSAA](https://therealmjp.github.io/posts/msaa-overview/) by [MJP](https://therealmjp.github.io/posts/) ( _article_ ) ( _reading_ )
+- [Alpha to coverage with MSAA tricks](http://www.humus.name/index.php?page=3D&ID=61) by [Humus](http://www.humus.name) ( _oit_ )
+- [Alpha test and alpha blend combined to get smooth edges](http://blog.wolfire.com/2009/02/rendering-plants-with-smooth-edges/) by [Wolfire](http://www.wolfire.com/)
+- [Superior Alpha to coverage technique](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f#620e) by [Ben Golus](https://bgolus.medium.com/)
+
+## Interesting blogs
+
+- [Ben Golus's Blog](https://bgolus.medium.com/) by [Ben Golus](https://bgolus.medium.com/)
 
 ## Lists
 
@@ -145,4 +165,3 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier)
 - [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke)
 - [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/)
-
