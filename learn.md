@@ -57,8 +57,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) by [Christopher Lum](https://www.youtube.com/channel/UCPUuVY7w8brL0r__P8UBgyQ) :movie_camera: ( _euler_ )
 - [3d Projection](https://youtu.be/EUtbZ0egZDQ) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _projection_ )
 - [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) by [University Of Auckland](www.cs.auckland.ac.nz) :page_facing_up: ( _projection_ )
-- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: ( _article_ ) :page_facing_up:
-- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/) :page_facing_up: ( _article_ ) :page_facing_up:
+- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: ( _article_ )
+- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/) :page_facing_up: ( _article_ )
 - [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection) by [duriansoftware.com](https://duriansoftware.com/) :page_facing_up: ( _article_ ) ( _shader_ ) :page_facing_up:
 
 ## Math : Curves
@@ -93,10 +93,10 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) :mortar_board: :page_facing_up:
 - [OpenGL® Programming Guide: The Official Guide to Learning OpenGL®, Version 4.3](https://www.cs.utexas.edu/users/fussell/courses/cs354/handouts/Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf) :mortar_board: :page_facing_up:
 - [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera:
-- [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg) :page_facing_up: ( _article_ ) :page_facing_up:
-- [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ ) :page_facing_up:
-- [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/) :page_facing_up: ( _article_ ) :page_facing_up:
-- [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/) :page_facing_up: ( _article_ ) :page_facing_up:
+- [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg) :page_facing_up: ( _article_ )
+- [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ )
+- [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/) :page_facing_up: ( _article_ )
+- [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/) :page_facing_up: ( _article_ )
 
 ## WebGL
 
@@ -111,8 +111,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
 - [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
-- [2D lines with round joints using WebGL shaders](http://nanodesu.info/oldstuff/2D-lines-with-round-joints-using-WebGL-shaders/) by [ColaColin](https://github.com/ColaColin) :page_facing_up: ( _article_ ) :page_facing_up:
-- [Shader-Based Antialiased, Dashed, Stroked Polylines](https://jcgt.org/published/0002/02/08/) by [Nicolas P. Rougier](https://github.com/rougier) :page_facing_up: ( _article_ ) :page_facing_up:
+- [2D lines with round joints using WebGL shaders](http://nanodesu.info/oldstuff/2D-lines-with-round-joints-using-WebGL-shaders/) by [ColaColin](https://github.com/ColaColin) :page_facing_up: ( _article_ )
+- [Shader-Based Antialiased, Dashed, Stroked Polylines](https://jcgt.org/published/0002/02/08/) by [Nicolas P. Rougier](https://github.com/rougier) :page_facing_up: ( _article_ )
 
 ## Order-Independent Transparency
 
@@ -142,10 +142,10 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Deep G-Buffers for stable global illumination approximation](https://research.nvidia.com/sites/default/files/pubs/2016-06_Deep-G-Buffers-for/Mara2016DeepGBuffer-extended-bright.pdf) by [Michael Mara](https://research.nvidia.com/search/node/Michael%20Mara) ( _official_ ) :page_facing_up: ( _article_ )
 - [Fast and Accurate Single-Pass A-Buffer using OpenGL 4.0+](https://blog.icare3d.org/2010/06/fast-and-accurate-single-pass-buffer.html) by [Cyril Crassin](https://research.nvidia.com/person/cyril-crassin) :page_facing_up: ( _article_ )
 - [A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) :page_facing_up:
-- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/) :page_facing_up: ( _article_ ) :page_facing_up:
-- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ ) :page_facing_up:
+- [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/) :page_facing_up: ( _article_ )
+- [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ )
 - [Stochastic Layered Alpha Blending](http://cwyman.org/presentations/2016_SIGGRAPH_StochasticLayeredAlphaBlending.pdf) by [Chris Wyman](http://cwyman.org/) ( _official_ ) :page_facing_up:
-- [Order-independent transparency and anti-aliasing](http://www.borealorienteering.com/tech_oit_and_aa) by [Jani Honkanen](borealorienteering.com) :page_facing_up: ( _article_ ) :page_facing_up:
+- [Order-independent transparency and anti-aliasing](http://www.borealorienteering.com/tech_oit_and_aa) by [Jani Honkanen](borealorienteering.com) :page_facing_up: ( _article_ )
 - [Stochastic Transparency](http://enderton.org/eric/pub/stochtransp-tvcg.pdf) by [Eric Enderton](http://enderton.org/)
 - [A demo for order independent transparency using pixel synchronization](https://github.com/chrismile/PixelSyncOIT) by [Christoph Neuhauser](https://github.com/chrismile/) ( _example_ )
 
@@ -153,7 +153,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ( _aa_ )
 
-- [A Quick Overview of MSAA](https://therealmjp.github.io/posts/msaa-overview/) by [MJP](https://therealmjp.github.io/posts/) :page_facing_up: ( _article_ ) :page_facing_up:
+- [A Quick Overview of MSAA](https://therealmjp.github.io/posts/msaa-overview/) by [MJP](https://therealmjp.github.io/posts/) :page_facing_up: ( _article_ )
 - [Alpha to coverage with MSAA tricks](http://www.humus.name/index.php?page=3D&ID=61) by [Humus](http://www.humus.name) ( _oit_ )
 - [Alpha test and alpha blend combined to get smooth edges](http://blog.wolfire.com/2009/02/rendering-plants-with-smooth-edges/) by [Wolfire](http://www.wolfire.com/)
 - [Superior Alpha to coverage technique](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f#620e) by [Ben Golus](https://bgolus.medium.com/)
@@ -171,7 +171,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ( _blog_ )
 
-- [Nathan Reed's Blog](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/) :page_facing_up: ( _article_ ) :page_facing_up:
+- [Nathan Reed's Blog](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/) :page_facing_up: ( _article_ )
 - [Ben Golus's Blog](https://bgolus.medium.com/) by [Ben Golus](https://bgolus.medium.com/)
 
 ## Collections
