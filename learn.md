@@ -2,45 +2,16 @@
 
 Curated collection of lists of useful resources to learn computer graphics together.
 
+[:arrow_down: Tags legend](#tags-legend) at the end of the page.
+
 <!-- - []() by []() : -->
 
-## Tags legend
+## Basic
 
-- ( _general_ ) -- general-purpose material
-- ( _specific_ ) -- domain-specific material
-- ( _official_ ) -- official material
-- ( _non-eng_ ) -- non-english language
-- ( _course_ ) -- long course or a book
-- ( _article_ ) -- either single article or single video-tutorial
-- ( _not-finished_ ) -- not finished, too little to learn
-- ( _interactive_ ) -- it is possible to interact and get feedback from the system
-- ( _reading_ ) -- material to read
-- ( _video_ ) -- material to watch
-- ( _list_ ) -- list of resources
-- ( _project_ ) -- a project
-- ( _forum_ ) -- either chat or forum to comminicate with people
-- ( _algo_ ) -- algorithmic problems and solutions
-- ( _presentation_ ) -- article in form of slides
-- ( _math_ ) -- topic related to math
-- ( _2d_ ) -- topic related to 2d graphics
-- ( _3d_ ) -- topic related to 3d graphics
-- ( _line_ ) -- topic related to drawing lines
-- ( _transformations_ ) -- transformations in 2d/3d
-- ( _quaternions_ ) -- topic related to quaternions
-- ( _euler_ ) -- topic related to euler angles
-- ( _rotation_ ) -- topic related to rotation in space
-- ( _projection_ ) -- topic related to camera projections
-- ( _cheetsheets_ ) -- set of notes used for quick reference
-- ( _computer-vision_ ) -- topic related to computer vision
-- ( _oit_ ) -- topic related to order-independent transparency
-- ( _aa_ ) -- anti aliasing techniques
-- ( _example_ ) -- code sample that can be executed
+( _basic_ )
 
-## General
+- [GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) ( _course_ ) ( _video_ ) ( _unity_ ) : Unity-based introduction to graphics
 
-- [Computer Graphics](https://www.youtube.com/playlist?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) ( _course_ ) ( _video_ )
-- [CS/ECE4795 GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) ( _course_ ) ( _video_ )
-- [CIS 581 Interactive Computer Graphics](https://web.cse.ohio-state.edu/~shen.94/581/Site/Slides.html) by [The Ohio State University](https://www.osu.edu/) ( _course_ ) ( _presentation_ ) ( _reading_ )
 - [EE267: Virtual Reality](https://stanford.edu/class/ee267/lectures/) by [Stanford University](https://www.stanford.edu/) ( _course_ ) ( _reading_ )
 - [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) ( _course_ ) ( _video_ )
 - [Computer Graphics](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/) by [University Of Auckland](https://www.cs.auckland.ac.nz) ( _course_ ) ( _reading_ )
@@ -165,3 +136,36 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier)
 - [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke)
 - [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/)
+
+## Tags legend
+
+- ( _basic_ ) -- basic learning material
+- ( _specific_ ) -- domain-specific material
+- ( _official_ ) -- official material
+- ( _non-eng_ ) -- non-english language
+- ( _course_ ) -- long course or a book
+- ( _article_ ) -- either single article or single video-tutorial
+- ( _not-finished_ ) -- not finished, too little to learn
+- ( _interactive_ ) -- it is possible to interact and get feedback from the system
+- ( _reading_ ) -- material to read
+- ( _video_ ) -- material to watch
+- ( _list_ ) -- list of resources
+- ( _project_ ) -- a project
+- ( _forum_ ) -- either chat or forum to comminicate with people
+- ( _algo_ ) -- algorithmic problems and solutions
+- ( _unity_ ) -- Unity-related resource
+- ( _presentation_ ) -- article in form of slides
+- ( _math_ ) -- topic related to math
+- ( _2d_ ) -- topic related to 2d graphics
+- ( _3d_ ) -- topic related to 3d graphics
+- ( _line_ ) -- topic related to drawing lines
+- ( _transformations_ ) -- transformations in 2d/3d
+- ( _quaternions_ ) -- topic related to quaternions
+- ( _euler_ ) -- topic related to euler angles
+- ( _rotation_ ) -- topic related to rotation in space
+- ( _projection_ ) -- topic related to camera projections
+- ( _cheetsheets_ ) -- set of notes used for quick reference
+- ( _computer-vision_ ) -- topic related to computer vision
+- ( _oit_ ) -- topic related to order-independent transparency
+- ( _aa_ ) -- anti aliasing techniques
+- ( _example_ ) -- code sample that can be executed
