@@ -20,6 +20,15 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - :star: [Shaders](https://simondev.teachable.com/p/glsl-shaders-from-scratch) by [Simon Dev](https://simondev.teachable.com) :mortar_board: :movie_camera: ( _shader_ ) : very good introduction to shaders
 
+## Math
+
+- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) :mortar_board: :movie_camera: : math for 3D space, flight-tailored
+- [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :movie_camera:
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera: ( _math_ )
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :mortar_board: :movie_camera: ( _math_ )
+- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems) by [learnopengl.com](https://learnopengl.com) ( _article_ ) :page_facing_up:
+- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) :page_facing_up:
+
 ## Virtual Reality
 
 ( _vr_ )
@@ -32,10 +41,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [Computer Vision and OpenCV Tutorial in C++](https://www.youtube.com/playlist?list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn) by [The Coding Lib](https://www.youtube.com/c/TheCodingLibrary/) :mortar_board: :movie_camera: ( _opencv_ )
 - [OpenCV Object Detection in Games](https://www.youtube.com/playlist?list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI) by [Learn Code By Gaming](https://www.youtube.com/c/LearnCodeByGaming) :mortar_board: :movie_camera: ( _opencv_ )
-
-## Math
-
-- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) :mortar_board: :movie_camera: : math for 3D space, flight-tailored
 
 ## Rendering backends
 
@@ -92,16 +97,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [OpenGL Transformations](https://open.gl/transformations) by [open.gl](https://open.gl/) ( _article_ ) :page_facing_up:
 - [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection) by [duriansoftware.com](https://duriansoftware.com/) ( _article_ ) :page_facing_up:
 - [A couple of notes about Z](http://www.humus.name/index.php?ID=255) by [Emil Persson](http://www.humus.name/) ( _article_ ) :page_facing_up:
-
-## Math
-
-( _math_ )
-
-- [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :movie_camera:
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera: ( _math_ )
-- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :mortar_board: :movie_camera: ( _math_ )
-- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems) by [learnopengl.com](https://learnopengl.com) ( _article_ ) :page_facing_up:
-- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) :page_facing_up:
 
 ## Order-Independent Transparency
 
