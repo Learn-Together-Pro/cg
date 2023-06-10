@@ -22,12 +22,20 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ## Math
 
-- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) :mortar_board: :movie_camera: : math for 3D space, flight-tailored
-- [Math for Game Developers - Character Movement](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :movie_camera:
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera: ( _math_ )
-- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :mortar_board: :movie_camera: ( _math_ )
-- [Coordinate systems](https://learnopengl.com/Getting-started/Coordinate-Systems) by [learnopengl.com](https://learnopengl.com) ( _article_ ) :page_facing_up:
-- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) :page_facing_up:
+( _math_ )
+
+- [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) :mortar_board: :movie_camera: ( _math_ ) : math for 3D space, flight-tailored
+- [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :movie_camera: ( _math_ ) : very wide series of lectures
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera: ( _math_ ) : linear algebra
+- [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :mortar_board: :page_facing_up: : good textual curse on graphics
+- [OpenGL Tutorials](http://www.opengl-tutorial.org/beginners-tutorials/) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: : good textual curse on graphics
+
+## Math: Transformation
+
+( _math_ ) ( _transformation_ )
+
+- [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ ) : good textual curse on graphics
+- [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: ( _article_ ) : tranformation and spaces
 
 ## Virtual Reality
 
@@ -142,6 +150,14 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Alpha test and alpha blend combined to get smooth edges](http://blog.wolfire.com/2009/02/rendering-plants-with-smooth-edges/) by [Wolfire](http://www.wolfire.com/)
 - [Superior Alpha to coverage technique](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f#620e) by [Ben Golus](https://bgolus.medium.com/)
 
+## Cheatsheet
+
+:chart_with_upwards_trend:
+
+- [Basic Math Cheatsheet](http://www.opengl-tutorial.org/miscellaneous/math-cheatsheet/) by [opengl-tutorial.org](https://opengl-tutorial.org) :chart_with_upwards_trend: : very basic math cheat sheet
+- [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
+- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
+
 ## Blogs
 
 ( _blog_ )
@@ -163,7 +179,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - :page_facing_up: - reading
 - :book: - a book
 - :mortar_board: - online course with or without feedback
-- :chart_with_upwards_trend: - cheetsheets
+- :chart_with_upwards_trend: - cheat sheets
 - :pirate_flag: - non-english
 - ( _basic_ ) - basic learning material
 - ( _official_ ) - official material
