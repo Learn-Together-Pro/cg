@@ -30,6 +30,12 @@
 ![Before Perspective Distortion](./cheatsheet/homogeneous_projection_before_distortion.png)
 ![After Perspective Distortion](./cheatsheet/homogeneous_projection.png)
 
+## Perspective Explained
+
+( _math_ ) ( _transformation_ )
+
+![Perspective Explained](./cheatsheet/perspective_explained.jpg)
+
 ## Curve Continuity
 
 ( _math_ ) ( _curve_ )

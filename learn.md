@@ -114,6 +114,15 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [2D lines with round joints using WebGL shaders](http://nanodesu.info/oldstuff/2D-lines-with-round-joints-using-WebGL-shaders/) by [ColaColin](https://github.com/ColaColin) :page_facing_up: ( _article_ )
 - [Shader-Based Antialiased, Dashed, Stroked Polylines](https://jcgt.org/published/0002/02/08/) by [Nicolas P. Rougier](https://github.com/rougier) :page_facing_up: ( _article_ )
 
+## Anti-Aliasing
+
+( _aa_ )
+
+- [A Quick Overview of MSAA](https://therealmjp.github.io/posts/msaa-overview/) by [MJP](https://therealmjp.github.io/posts/) :page_facing_up: ( _article_ )
+- [Alpha to coverage with MSAA tricks](http://www.humus.name/index.php?page=3D&ID=61) by [Humus](http://www.humus.name) ( _oit_ )
+- [Alpha test and alpha blend combined to get smooth edges](http://blog.wolfire.com/2009/02/rendering-plants-with-smooth-edges/) by [Wolfire](http://www.wolfire.com/)
+- [Superior Alpha to coverage technique](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f#620e) by [Ben Golus](https://bgolus.medium.com/)
+
 ## Order-Independent Transparency
 
 ( _oit_ )
@@ -148,15 +157,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Order-independent transparency and anti-aliasing](http://www.borealorienteering.com/tech_oit_and_aa) by [Jani Honkanen](borealorienteering.com) :page_facing_up: ( _article_ )
 - [Stochastic Transparency](http://enderton.org/eric/pub/stochtransp-tvcg.pdf) by [Eric Enderton](http://enderton.org/)
 - [A demo for order independent transparency using pixel synchronization](https://github.com/chrismile/PixelSyncOIT) by [Christoph Neuhauser](https://github.com/chrismile/) ( _example_ )
-
-## Anti-Aliasing
-
-( _aa_ )
-
-- [A Quick Overview of MSAA](https://therealmjp.github.io/posts/msaa-overview/) by [MJP](https://therealmjp.github.io/posts/) :page_facing_up: ( _article_ )
-- [Alpha to coverage with MSAA tricks](http://www.humus.name/index.php?page=3D&ID=61) by [Humus](http://www.humus.name) ( _oit_ )
-- [Alpha test and alpha blend combined to get smooth edges](http://blog.wolfire.com/2009/02/rendering-plants-with-smooth-edges/) by [Wolfire](http://www.wolfire.com/)
-- [Superior Alpha to coverage technique](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f#620e) by [Ben Golus](https://bgolus.medium.com/)
 
 ## Cheatsheet
 
@@ -217,11 +217,11 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _2d_ ) - related to 2d graphics
 - ( _3d_ ) - related to 3d graphics
 - ( _shader_ ) - related to shaders
+- ( _sdf_ ) - signed distance function
 - ( _cv_ ) - related to computer vision
 - ( _oit_ ) - related to order-independent transparency
 - ( _vr_ ) - virtual reality
 - ( _aa_ ) - anti aliasing techniques
-- ( _sdf_ ) - signed distance function
 
 ##### Specific Technology
 
