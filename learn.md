@@ -12,6 +12,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - :star: [Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good introductory course on graphics
 - :star: [Interactive Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good advanced course on graphics
+- :star: [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
 - [GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) :mortar_board: :movie_camera: ( _basic_ ) ( _unity_ ) : Unity-based introduction to graphics
 - [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :mortar_board: :page_facing_up: : good textual curse on graphics
 - [OpenGL Tutorials](http://www.opengl-tutorial.org/beginners-tutorials/) by [opengl-tutorial.org](https://opengl-tutorial.org) :mortar_board: :page_facing_up: : good textual curse on graphics
@@ -38,7 +39,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) :mortar_board: :movie_camera: ( _math_ ) : math for 3D space, flight-tailored
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :movie_camera: ( _math_ ) : very wide series of lectures
-- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera: ( _math_ ) : linear algebra
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _math_ ) : linear algebra
 
 ## Math : Transformation
 
@@ -46,16 +47,16 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ ) : good textual curse on graphics
 - [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: ( _article_ ) : tranformation and spaces
-- [How to translate, rotate, and scale points in 2D space](https://www.youtube.com/watch?v=SLWCc-mcd-I) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
-- [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _3d_ )
-- [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _rotation_ )
+- [How to translate, rotate, and scale points in 2D space](https://www.youtube.com/watch?v=SLWCc-mcd-I) by [Brian Will](https://www.youtube.com/@briantwill) :movie_camera: ( _2d_ )
+- [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) by [Brian Will](https://www.youtube.com/@briantwill) :movie_camera: ( _3d_ )
+- [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) by [Brian Will](https://www.youtube.com/@briantwill) :movie_camera: ( _rotation_ )
 - [Three-dimensional linear transformations](https://youtu.be/rHLEWRxRGiM) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) :movie_camera:
 - [Visualizing quaternions](https://eater.net/quaternions) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) & [Ben Eater](https://eater.net/) :page_facing_up: ( _interactive_ ) :movie_camera: ( _quaternions_ )
 - [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) ( _interactive_ ) :movie_camera: ( _quaternions_ )
 - [Quaternion Rotation](https://youtu.be/4mXL751ko0w) by [Sutrabla](https://www.youtube.com/user/Sutrabla/) :movie_camera: ( _quaternions_ )
 - [Gimbal lock](https://youtu.be/zc8b2Jo7mno) by [GuerrillaCG](https://www.youtube.com/user/GuerrillaCG) :movie_camera: ( _euler_ ) : gimbal lock explained
 - [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) by [Christopher Lum](https://www.youtube.com/channel/UCPUuVY7w8brL0r__P8UBgyQ) :movie_camera: ( _euler_ )
-- [3d Projection](https://youtu.be/EUtbZ0egZDQ) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _projection_ )
+- [3d Projection](https://youtu.be/EUtbZ0egZDQ) by [Brian Will](https://www.youtube.com/@briantwill) :movie_camera: ( _projection_ )
 - [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) by [University Of Auckland](www.cs.auckland.ac.nz) :page_facing_up: ( _projection_ )
 - [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: ( _article_ )
 - [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/) :page_facing_up: ( _article_ )
@@ -92,7 +93,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca) :mortar_board: :page_facing_up:
 - [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) :mortar_board: :page_facing_up:
 - [OpenGL® Programming Guide: The Official Guide to Learning OpenGL®, Version 4.3](https://www.cs.utexas.edu/users/fussell/courses/cs354/handouts/Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf) :mortar_board: :page_facing_up:
-- [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera:
+- [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera:
 - [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg) :page_facing_up: ( _article_ )
 - [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ )
 - [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/) :page_facing_up: ( _article_ )
@@ -109,8 +110,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ( _line_ )
 
-- [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
-- [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
+- [2D Graphics Algorithms (part 1)](https://youtu.be/bfvmPa9eWew) by [Brian Will](https://www.youtube.com/@briantwill) :movie_camera: ( _2d_ )
+- [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) by [Brian Will](https://www.youtube.com/@briantwill) :movie_camera: ( _2d_ )
 - [2D lines with round joints using WebGL shaders](http://nanodesu.info/oldstuff/2D-lines-with-round-joints-using-WebGL-shaders/) by [ColaColin](https://github.com/ColaColin) :page_facing_up: ( _article_ )
 - [Shader-Based Antialiased, Dashed, Stroked Polylines](https://jcgt.org/published/0002/02/08/) by [Nicolas P. Rougier](https://github.com/rougier) :page_facing_up: ( _article_ )
 
@@ -227,5 +228,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - ( _unity_ ) - related to Unity
 - ( _godot_ ) - related to Godot
+- ( _opengl_ ) - related to OpenGL
 - ( _webgl_ ) - related to WebGL
 - ( _opencv_ ) - related to OpenCV
