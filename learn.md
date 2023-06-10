@@ -26,6 +26,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Godot Shading Language Reference](https://docs.godotengine.org/en/stable/tutorials/shaders/shader_reference/shading_language.html#) by [Godot](https://godotengine.org/) :card_file_box: :page_facing_up: : Godot shading language reference, very similar to GLSL
 - [Reference on 3D SDFs](https://iquilezles.org/articles/distfunctions/) by [Inigo Quilez](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw) :card_file_box: :page_facing_up: ( _shader_ ) ( _sdf_ ) : reference on many 3D signed distance functions
 - [Reference on 2D SDFs](https://iquilezles.org/articles/distfunctions2d/) by [Inigo Quilez](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw) :card_file_box: :page_facing_up: ( _shader_ ) ( _sdf_ ) : reference on many 2D signed distance functions
+- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier) :page_facing_up:  ( _shader_ ) : learn to write shaders for 3D shading
 
 ## Noise
 
@@ -39,14 +40,41 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :movie_camera: ( _math_ ) : very wide series of lectures
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera: ( _math_ ) : linear algebra
 
-## Math: Transformation
+## Math : Transformation
 
 ( _math_ ) ( _transformation_ )
 
 - [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ ) : good textual curse on graphics
 - [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: ( _article_ ) : tranformation and spaces
 
-## Math: Curves
+## Math : Transformations : unsorted
+
+( _transformation_ )
+
+- [How to translate, rotate, and scale points in 2D space](https://www.youtube.com/watch?v=SLWCc-mcd-I) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
+- [Computer Graphics: 2D Transformations](https://youtu.be/pZIFBV2Hcxo) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) :movie_camera: ( _2d_ )
+- [Computer Graphics: Homogeneous Coordinate Representation](https://youtu.be/mq2S1SzAD1s?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) :movie_camera: ( _2d_ )
+- [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _3d_ )
+- [Compute Graphics: 3D Transformations](https://youtu.be/1GmVN2zIAJQ?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) :movie_camera: ( _3d_ )
+- [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _rotation_ )
+- [Three-dimensional linear transformations](https://youtu.be/rHLEWRxRGiM) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) :movie_camera:
+- [Visualizing quaternions](https://eater.net/quaternions) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) & [Ben Eater](https://eater.net/) :page_facing_up: ( _interactive_ ) :movie_camera: ( _quaternions_ )
+- [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) ( _interactive_ ) :movie_camera: ( _quaternions_ )
+- [Quaternion Rotation](https://youtu.be/4mXL751ko0w) by [Sutrabla](https://www.youtube.com/user/Sutrabla/) :movie_camera: ( _quaternions_ )
+- [Gimbal lock](https://youtu.be/zc8b2Jo7mno) by [GuerrillaCG](https://www.youtube.com/user/GuerrillaCG) :movie_camera: ( _euler_ )
+- [Axis Angle & Euler Rotation](https://youtu.be/syQnn_xuB8U) by [Sutrabla](https://www.youtube.com/user/Sutrabla/) :movie_camera: ( _euler_ )
+- [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) by [Christopher Lum](https://www.youtube.com/channel/UCPUuVY7w8brL0r__P8UBgyQ) :movie_camera: ( _euler_ )
+- [3d Projection](https://youtu.be/EUtbZ0egZDQ) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _projection_ )
+- [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) by [University Of Auckland](www.cs.auckland.ac.nz) :page_facing_up: :page_facing_up: ( _projection_ )
+- [Transformations for ui dev](https://habr.com/ru/post/520078) by [sfi0zy](https://habr.com/ru/users/sfi0zy/) ( _article_ ) :page_facing_up:
+- [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) :page_facing_up:
+- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) :page_facing_up:
+- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/) ( _article_ ) :page_facing_up:
+- [OpenGL Transformations](https://open.gl/transformations) by [open.gl](https://open.gl/) ( _article_ ) :page_facing_up:
+- [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection) by [duriansoftware.com](https://duriansoftware.com/) ( _article_ ) :page_facing_up:
+- [A couple of notes about Z](http://www.humus.name/index.php?ID=255) by [Emil Persson](http://www.humus.name/) ( _article_ ) :page_facing_up:
+
+## Math : Curves
 
  ( _math_ ) ( _curves_ )
 
@@ -98,33 +126,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [2D Graphics Algorithms (part 2)](https://youtu.be/IDFB5CDpLDE) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
 - [2D lines with round joints using WebGL shaders](http://nanodesu.info/oldstuff/2D-lines-with-round-joints-using-WebGL-shaders/) by [ColaColin](https://github.com/ColaColin) ( _article_ ) :page_facing_up:
 - [Shader-Based Antialiased, Dashed, Stroked Polylines](https://jcgt.org/published/0002/02/08/) by [Nicolas P. Rougier](https://github.com/rougier) ( _article_ ) :page_facing_up:
-
-## Transformations
-
-( _transformation_ )
-
-- [How to translate, rotate, and scale points in 2D space](https://www.youtube.com/watch?v=SLWCc-mcd-I) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
-- [Computer Graphics: 2D Transformations](https://youtu.be/pZIFBV2Hcxo) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) :movie_camera: ( _2d_ )
-- [Computer Graphics: Homogeneous Coordinate Representation](https://youtu.be/mq2S1SzAD1s?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) :movie_camera: ( _2d_ )
-- [3D coordinate systems, translation, rotation and scaling in 3D](https://www.youtube.com/watch?v=rTN4nawkrZs) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _3d_ )
-- [Compute Graphics: 3D Transformations](https://youtu.be/1GmVN2zIAJQ?list=PLE67F-VQUgLgws92d9gmP-AhBN_KQRGDW) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) :movie_camera: ( _3d_ )
-- [Rotations](https://youtu.be/x8-WOQYlaAs?list=PLIbUZ3URbL0F8p5TUxBChxqpqEJY8yRJo) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _rotation_ )
-- [Three-dimensional linear transformations](https://youtu.be/rHLEWRxRGiM) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) :movie_camera:
-- [Visualizing quaternions](https://eater.net/quaternions) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) & [Ben Eater](https://eater.net/) :page_facing_up: ( _interactive_ ) :movie_camera: ( _quaternions_ )
-- [Quaternions and 3d rotation, explained interactively](https://youtu.be/zjMuIxRvygQ) by [Grant Sanderson](https://www.youtube.com/c/3blue1brown) ( _interactive_ ) :movie_camera: ( _quaternions_ )
-- [Quaternion Rotation](https://youtu.be/4mXL751ko0w) by [Sutrabla](https://www.youtube.com/user/Sutrabla/) :movie_camera: ( _quaternions_ )
-- [Gimbal lock](https://youtu.be/zc8b2Jo7mno) by [GuerrillaCG](https://www.youtube.com/user/GuerrillaCG) :movie_camera: ( _euler_ )
-- [Axis Angle & Euler Rotation](https://youtu.be/syQnn_xuB8U) by [Sutrabla](https://www.youtube.com/user/Sutrabla/) :movie_camera: ( _euler_ )
-- [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) by [Christopher Lum](https://www.youtube.com/channel/UCPUuVY7w8brL0r__P8UBgyQ) :movie_camera: ( _euler_ )
-- [3d Projection](https://youtu.be/EUtbZ0egZDQ) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _projection_ )
-- [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) by [University Of Auckland](www.cs.auckland.ac.nz) :page_facing_up: :page_facing_up: ( _projection_ )
-- [Transformations for ui dev](https://habr.com/ru/post/520078) by [sfi0zy](https://habr.com/ru/users/sfi0zy/) ( _article_ ) :page_facing_up:
-- [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) :page_facing_up:
-- [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) :page_facing_up:
-- [OpenGL Projection Matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) by [Song Ho](http://www.songho.ca/) ( _article_ ) :page_facing_up:
-- [OpenGL Transformations](https://open.gl/transformations) by [open.gl](https://open.gl/) ( _article_ ) :page_facing_up:
-- [World,View and Projection Matrices](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-3:-3d-transformation-and-projection) by [duriansoftware.com](https://duriansoftware.com/) ( _article_ ) :page_facing_up:
-- [A couple of notes about Z](http://www.humus.name/index.php?ID=255) by [Emil Persson](http://www.humus.name/) ( _article_ ) :page_facing_up:
 
 ## Order-Independent Transparency
 
@@ -186,11 +187,10 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Nathan Reed's Blog](https://www.reedbeta.com/blog/category/graphics/) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) :page_facing_up:
 - [Ben Golus's Blog](https://bgolus.medium.com/) by [Ben Golus](https://bgolus.medium.com/)
 
-## Lists
+## Collections
 
 :open_file_folder:
 
-- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier) :open_file_folder: :
 - [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke) :open_file_folder: :
 - [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/) :open_file_folder: :
 
@@ -204,7 +204,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - :mortar_board: - online course with or without feedback
 - :chart_with_upwards_trend: - cheat sheets
 - :card_file_box: - reference or manual or a standard
-- :open_file_folder: - collections of link on resources
+- :open_file_folder: - collections of collections
 - :pirate_flag: - non-english
 - ( _official_ ) - official material
 - ( _article_ ) - either single article or single video-tutorial
