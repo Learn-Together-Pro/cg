@@ -4,7 +4,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
-<!-- []() by []() : -->
+<!-- - []() by []() : -->
 
 ## Basic
 
@@ -13,12 +13,23 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - :star: [Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good introductory course on graphics
 - :star: [Interactive Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good advanced course on graphics
 - [GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) :mortar_board: :movie_camera: ( _basic_ ) ( _unity_ ) : Unity-based introduction to graphics
+- [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :mortar_board: :page_facing_up: : good textual curse on graphics
+- [OpenGL Tutorials](http://www.opengl-tutorial.org/beginners-tutorials/) by [opengl-tutorial.org](https://opengl-tutorial.org) :mortar_board: :page_facing_up: : good textual curse on graphics
 
 ## Shaders
 
 ( _shader_ )
 
 - :star: [Shaders](https://simondev.teachable.com/p/glsl-shaders-from-scratch) by [Simon Dev](https://simondev.teachable.com) :mortar_board: :movie_camera: ( _shader_ ) : very good introduction to shaders
+- [Shader Coding](https://www.youtube.com/playlist?list=PLGmrMu-IwbgsVjE7SAtFaWyhZXyBjJNnO) by [Art of Code](https://www.youtube.com/@TheArtofCodeIsCool) :mortar_board: :movie_camera: ( _shader_ ) : collection of lectures on writing shaders
+- [The Book of Shaders](https://thebookofshaders.com/) by [Patricio Gonzalez Viv](https://www.patriciogonzalezvivo.com/) :mortar_board: :page_facing_up: ( _shader_ ) : open sourced interactive book on shaders
+- [Godot Shading Language Reference](https://docs.godotengine.org/en/stable/tutorials/shaders/shader_reference/shading_language.html#) by [Godot](https://godotengine.org/) :card_file_box: :page_facing_up: : Godot shading language reference, very similar to GLSL
+- [Reference on 3D SDFs](https://iquilezles.org/articles/distfunctions/) by [Inigo Quilez](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw) :card_file_box: :page_facing_up: ( _shader_ ) ( _sdf_ ) : reference on many 3D signed distance functions
+- [Reference on 2D SDFs](https://iquilezles.org/articles/distfunctions2d/) by [Inigo Quilez](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw) :card_file_box: :page_facing_up: ( _shader_ ) ( _sdf_ ) : reference on many 2D signed distance functions
+
+## Noise
+
+- [Noise Shaders](https://www.youtube.com/playlist?list=PLTJ_bWjv6i7xnDaPMrbx69zVu82sVails) by [Suboptimal Engineer](https://www.youtube.com/@SuboptimalEng) :mortar_board: :movie_camera: ( _shader_ ) : collection of tutorial on noise, but not only
 
 ## Math
 
@@ -27,8 +38,6 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Flight Mechanics](https://www.youtube.com/playlist?list=PLxdnSsBqCrrEx3A6W94sQGClk6Q4YCg-h) by [Christopher Lum](https://www.youtube.com/c/ChristopherLum) :mortar_board: :movie_camera: ( _math_ ) : math for 3D space, flight-tailored
 - [Math for Game Developers](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) by [Jorge Rodriguez](https://www.youtube.com/channel/UCEhBM2x5MG9-e_JSOzU068w) :movie_camera: ( _math_ ) : very wide series of lectures
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :mortar_board: :movie_camera: ( _math_ ) : linear algebra
-- [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :mortar_board: :page_facing_up: : good textual curse on graphics
-- [OpenGL Tutorials](http://www.opengl-tutorial.org/beginners-tutorials/) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: : good textual curse on graphics
 
 ## Math: Transformation
 
@@ -36,6 +45,17 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ ) : good textual curse on graphics
 - [Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices) by [opengl-tutorial.org](https://opengl-tutorial.org) :page_facing_up: ( _article_ ) : tranformation and spaces
+
+## Math: Curves
+
+ ( _math_ ) ( _curves_ )
+
+- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) by [Pomax](https://github.com/pomax) :mortar_board: :page_facing_up: : good reading on bezier and other curves
+- [Splines in Euclidean Space and Beyond](https://splines.readthedocs.io/en/latest/index.html) by [Matthias Geier](https://github.com/mgeier) :mortar_board: :page_facing_up: : advanced book with code snipets on curves
+- [Conic Sections](https://www.youtube.com/playlist?list=PLaLOVNqqD-2FKWA39UigU6of1GGDeUQbu) by [Michel van Biezen](https://www.youtube.com/@MichelvanBiezen) :mortar_board: :movie_camera: : conic sections
+- [Curves I](https://www.youtube.com/watch?v=6jjLSkp0Y7I) and [Curves II](https://www.youtube.com/watch?v=l9dCeeq3X1E) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel)  :movie_camera: : good introduction to curves
+- [Continuity of Splines](https://www.youtube.com/watch?v=jvPPXbo87ds) by [Freya Holmér](https://www.youtube.com/@Acegikmo) :movie_camera: : visualization of bezier and other curves
+- [Easing Functions](https://easings.net/#) by [Andrey Sitnik](https://github.com/ai) : :chart_with_upwards_trend: list and describe basic easing functions
 
 ## Virtual Reality
 
@@ -81,7 +101,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ## Transformations
 
-( _transformations_ )
+( _transformation_ )
 
 - [How to translate, rotate, and scale points in 2D space](https://www.youtube.com/watch?v=SLWCc-mcd-I) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _2d_ )
 - [Computer Graphics: 2D Transformations](https://youtu.be/pZIFBV2Hcxo) by [Jyothi Mandala](https://www.youtube.com/channel/UCDDxkAZS-3MbZyn6DqyED1g) :movie_camera: ( _2d_ )
@@ -97,7 +117,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Axis Angle & Euler Rotation](https://youtu.be/syQnn_xuB8U) by [Sutrabla](https://www.youtube.com/user/Sutrabla/) :movie_camera: ( _euler_ )
 - [Euler Angles and the Euler Rotation Sequence](https://youtu.be/GJBc6z6p0KQ) by [Christopher Lum](https://www.youtube.com/channel/UCPUuVY7w8brL0r__P8UBgyQ) :movie_camera: ( _euler_ )
 - [3d Projection](https://youtu.be/EUtbZ0egZDQ) by [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) :movie_camera: ( _projection_ )
-- [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) by [University Of Auckland](www.cs.auckland.ac.nz) :page_facing_up: ( _presentation_ ) ( _projection_ )
+- [Viewing and Projection](https://www.cs.auckland.ac.nz/courses/compsci372s1c/yenLectures/ViewingAndProjection4up.pdf) by [University Of Auckland](www.cs.auckland.ac.nz) :page_facing_up: :page_facing_up: ( _projection_ )
 - [Transformations for ui dev](https://habr.com/ru/post/520078) by [sfi0zy](https://habr.com/ru/users/sfi0zy/) ( _article_ ) :page_facing_up:
 - [Why Do Quaternions Double-Cover?](https://www.reedbeta.com/blog/why-quaternions-double-cover) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) :page_facing_up:
 - [Rotations](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions) by [opengl-tutorial.org](https://opengl-tutorial.org) ( _article_ ) :page_facing_up:
@@ -124,7 +144,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Weighted blended method example using WebGL](https://tsherif.github.io/webgl2examples/oit.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
 - [Dual depth peeling using WebGL](https://tsherif.github.io/webgl2examples/oit-dual-depth-peeling.html) by [Tarek Sherif](https://github.com/tsherif) ( _example_ )
 - [Dual depth peeling implemenetation using WebGL](https://medium.com/@shrekshao_71662/dual-depth-peeling-implementation-in-webgl-11baa061ba4b) by [ShrekShao](https://medium.com/@shrekshao_71662) ( _example_ )
-- [Depth peeling via bucket sort presentation](https://www.highperformancegraphics.org/previous/www_2009/presentations/liu-bucket.pdf) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _presentation_ )
+- [Depth peeling via bucket sort presentation](https://www.highperformancegraphics.org/previous/www_2009/presentations/liu-bucket.pdf) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) :page_facing_up:
 - [Depth peeling via bucket sort](https://www.semanticscholar.org/paper/Efficient-depth-peeling-via-bucket-sort-Liu-Huang/978a83ddf48c59f18529d69a9a1d0f0428881db0) by [Mengcheng Huang](hmcen@ios.ac.cn) ( _official_ ) ( _article_ )
 <!- - [Depth peeling via bucket sort #2] (https://drive.google.com/file/d/12JYmusKSvpsdVua1emdqIPJTY7vBFKzq/view) ->
 <!- - [Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine": Depth peeling via bucket sort] (https://drive.google.com/file/d/1199PPCQka5oFZq9_Q09htGEeriLLnPO6/view) ->
@@ -133,10 +153,10 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Collection of information about multifragment rendering](https://github.com/cgaueb/MFR) by [Computer Graphics AUEB](http://graphics.cs.aueb.gr/graphics/index.html) ( _project_ )
 - [Deep G-Buffers for stable global illumination approximation](https://research.nvidia.com/sites/default/files/pubs/2016-06_Deep-G-Buffers-for/Mara2016DeepGBuffer-extended-bright.pdf) by [Michael Mara](https://research.nvidia.com/search/node/Michael%20Mara) ( _official_ ) ( _article_ )
 - [Fast and Accurate Single-Pass A-Buffer using OpenGL 4.0+](https://blog.icare3d.org/2010/06/fast-and-accurate-single-pass-buffer.html) by [Cyril Crassin](https://research.nvidia.com/person/cyril-crassin) ( _article_ )
-- [A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) ( _presentation_ )
+- [A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) :page_facing_up:
 - [Depth Precision Visualized](https://developer.nvidia.com/content/depth-precision-visualized) by [Nathan Reed](https://www.reedbeta.com/) ( _article_ ) :page_facing_up:
 - [Depth testing](https://learnopengl.com/Advanced-OpenGL/Depth-testing) by [learnopengl.com](https://learnopengl.com) ( _article_ ) :page_facing_up:
-- [Stochastic Layered Alpha Blending](http://cwyman.org/presentations/2016_SIGGRAPH_StochasticLayeredAlphaBlending.pdf) by [Chris Wyman](http://cwyman.org/) ( _official_ ) ( _presentation_ )
+- [Stochastic Layered Alpha Blending](http://cwyman.org/presentations/2016_SIGGRAPH_StochasticLayeredAlphaBlending.pdf) by [Chris Wyman](http://cwyman.org/) ( _official_ ) :page_facing_up:
 - [Order-independent transparency and anti-aliasing](http://www.borealorienteering.com/tech_oit_and_aa) by [Jani Honkanen](borealorienteering.com) ( _article_ ) :page_facing_up:
 - [Stochastic Transparency](http://enderton.org/eric/pub/stochtransp-tvcg.pdf) by [Eric Enderton](http://enderton.org/)
 - [A demo for order independent transparency using pixel synchronization](https://github.com/chrismile/PixelSyncOIT) by [Christoph Neuhauser](https://github.com/chrismile/) ( _example_ )
@@ -157,6 +177,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Basic Math Cheatsheet](http://www.opengl-tutorial.org/miscellaneous/math-cheatsheet/) by [opengl-tutorial.org](https://opengl-tutorial.org) :chart_with_upwards_trend: : very basic math cheat sheet
 - [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
 - [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
+- [Easing Functions](https://easings.net/#) by [Andrey Sitnik](https://github.com/ai) : :chart_with_upwards_trend: list and describe basic easing functions
 
 ## Blogs
 
@@ -167,43 +188,57 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 ## Lists
 
-( _list_ )
+:open_file_folder:
 
-- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier)
-- [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke)
-- [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/)
+- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by [lettier](https://github.com/lettier) :open_file_folder: :
+- [Awesome explorables](https://github.com/sp4ke/awesome-explorables) by [sp4ke](https://github.com/sp4ke) :open_file_folder: :
+- [Explorable Explanations](https://explorabl.es/) by [explorable.es](https://explorabl.es/) :open_file_folder: :
 
 ## Tags legend
+
+##### Kind of resource
 
 - :movie_camera: - video material to watch
 - :page_facing_up: - reading
 - :book: - a book
 - :mortar_board: - online course with or without feedback
 - :chart_with_upwards_trend: - cheat sheets
+- :card_file_box: - reference or manual or a standard
+- :open_file_folder: - collections of link on resources
 - :pirate_flag: - non-english
-- ( _basic_ ) - basic learning material
 - ( _official_ ) - official material
 - ( _article_ ) - either single article or single video-tutorial
 - ( _interactive_ ) - it is possible to interact and get feedback from the system
 - ( _blog_ ) - blogs
-- ( _list_ ) - list of resources
 - ( _project_ ) - a project
-- ( _shader_ ) - related to shaders
-- ( _unity_ ) - related to Unity
-- ( _webgl_ ) - related to WebGL
-- ( _presentation_ ) - article in form of slides
+- ( _example_ ) - code sample that can be executed
+
+##### Math
+
 - ( _math_ ) - related to math
-- ( _2d_ ) - related to 2d graphics
-- ( _3d_ ) - related to 3d graphics
-- ( _line_ ) - related to drawing lines
-- ( _transformations_ ) - transformations in 2d/3d
+- ( _transformation_ ) - related to math transformation, projection
 - ( _quaternions_ ) - related to quaternions
 - ( _euler_ ) - related to euler angles
 - ( _rotation_ ) - related to rotation in space
 - ( _projection_ ) - related to camera projections
+- ( _curves_ ) - related to math curves
+
+##### Specific Domain
+
+- ( _basic_ ) - basic learning material
+- ( _line_ ) - related to drawing lines
+- ( _2d_ ) - related to 2d graphics
+- ( _3d_ ) - related to 3d graphics
+- ( _shader_ ) - related to shaders
 - ( _cv_ ) - related to computer vision
-- ( _opencv_ ) - OpenCV related
 - ( _oit_ ) - related to order-independent transparency
 - ( _vr_ ) - virtual reality
 - ( _aa_ ) - anti aliasing techniques
-- ( _example_ ) - code sample that can be executed
+- ( _sdf_ ) - signed distance function
+
+##### Specific Technology
+
+- ( _unity_ ) - related to Unity
+- ( _godot_ ) - related to Godot
+- ( _webgl_ ) - related to WebGL
+- ( _opencv_ ) - related to OpenCV
