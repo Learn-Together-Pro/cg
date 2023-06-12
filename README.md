@@ -13,4 +13,4 @@ Here you can find:
 - :mortar_board: [Learn](./learn.md) : collection of materials to learn Graphics.
 - :old_key: [Comprehend](./concepts.md) : key concepts and dichotomies of Graphics.
 - :chart_with_upwards_trend: [Systemize](./cheatsheets.md) : cheat sheets on Graphics.
-- :wrench: [Explore](./toolbox_general.md) : toolbox of useful open source projects to reuse.
+- :wrench: [Explore](./toolbox.md) : toolbox of useful open source projects to reuse.
