@@ -4,6 +4,12 @@
 
 <!-- - []() by []() ( _:movie_camera:_ ) -->
 
+## GPU Pileline
+
+( _gpu_ )
+
+![GPU Pileline](./cheatsheet/gpu_pipeline.jpg)
+
 ## Coordinates Systems
 
 ( _math_ ) ( _transformation_ )
