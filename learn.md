@@ -98,20 +98,20 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/) :page_facing_up: ( _article_ )
 - [An overview on how to write a WebGPU application](https://alain.xyz/blog/raw-webgpu) by [Alain Galvan](https://alain.xyz/) :page_facing_up: ( _article_ )
 
-## WebGL
+## Backend: WebGL
 
 ( _webgl_ )
 
 - [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
 - [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
 
-## Vulkan
+## Backend: Vulkan
 
 ( _vulkan_ )
 
 - [Vulkan Game Engine](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR) by [Brendan Galea](https://www.youtube.com/@BrendanGalea) :mortar_board: :movie_camera: ( _basic_ ) ( _vulkan_ ) ( _cpp_ ) : Vulkan-based introductory course
 
-## OpenGL
+## Backend: OpenGL
 
 - [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
 - [OpenGL Tutorials](https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-) by [Victor Gordan](https://www.youtube.com/@VictorGordan) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based introductory course
@@ -241,7 +241,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - ( _unity_ ) - related to Unity
 - ( _godot_ ) - related to Godot
 - ( _opengl_ ) - related to OpenGL rendering backend
-- ( _vulkan_ ) - related to OpenGL rendering backend
+- ( _vulkan_ ) - related to Vulkan rendering backend
 - ( _webgl_ ) - related to WebGL
 - ( _opencv_ ) - related to OpenCV
 - ( _cpp_ ) - related to C++
