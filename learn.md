@@ -12,7 +12,7 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - :star: [Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good introductory course on graphics
 - :star: [Interactive Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good advanced course on graphics
-- :star: [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
+- :star: [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
 - [GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) :mortar_board: :movie_camera: ( _basic_ ) ( _unity_ ) : Unity-based introduction to graphics
 - [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :mortar_board: :page_facing_up: : good textual curse on graphics
 - [OpenGL Tutorials](http://www.opengl-tutorial.org/beginners-tutorials/) by [opengl-tutorial.org](https://opengl-tutorial.org) :mortar_board: :page_facing_up: : good textual curse on graphics
@@ -86,14 +86,13 @@ Curated collection of lists of useful resources to learn computer graphics toget
 - [Computer Vision and OpenCV Tutorial in C++](https://www.youtube.com/playlist?list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn) by [The Coding Lib](https://www.youtube.com/c/TheCodingLibrary/) :mortar_board: :movie_camera: ( _opencv_ )
 - [OpenCV Object Detection in Games](https://www.youtube.com/playlist?list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI) by [Learn Code By Gaming](https://www.youtube.com/c/LearnCodeByGaming) :mortar_board: :movie_camera: ( _opencv_ )
 
-## Rendering backends
+## Unsorted Rendering Backends
 
 - [OpenGL online book](https://learnopengl.com) by [learnopengl.com](https://learnopengl.com) :mortar_board: :page_facing_up:
 - [OpenGL tutorials](http://www.opengl-tutorial.org/) by [opengl-tutorial.org](http://www.opengl-tutorial.org/) :mortar_board: :page_facing_up:
 - [OpenGL fundamentals](http://www.songho.ca/opengl/) by [songho.ca](http://www.songho.ca) :mortar_board: :page_facing_up:
 - [OpenGL tutorials](https://open.gl/) by [open.gl](https://open.gl/) :mortar_board: :page_facing_up:
 - [OpenGL® Programming Guide: The Official Guide to Learning OpenGL®, Version 4.3](https://www.cs.utexas.edu/users/fussell/courses/cs354/handouts/Addison.Wesley.OpenGL.Programming.Guide.8th.Edition.Mar.2013.ISBN.0321773039.pdf) :mortar_board: :page_facing_up:
-- [OpenGL course](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera:
 - [3D Graphics with OpenGL Basic Theory](http://web.archive.org/web/20201113214817/https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html) by [Nanyang Technological University](www.ntu.edu.sg) :page_facing_up: ( _article_ )
 - [OpenGL introduction](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :page_facing_up: ( _article_ )
 - [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents) by [duriansoftware.com](https://duriansoftware.com/) :page_facing_up: ( _article_ )
@@ -105,6 +104,19 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - [WebGL 1.0 API Quick Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
 - [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf) by [Khronos Group](https://www.khronos.org) :chart_with_upwards_trend: ( _webgl_ )
+
+## Vulkan
+
+( _vulkan_ )
+
+- [Vulkan Game Engine](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR) by [Brendan Galea](https://www.youtube.com/@BrendanGalea) :mortar_board: :movie_camera: ( _basic_ ) ( _vulkan_ ) ( _cpp_ ) : Vulkan-based introductory course
+
+## OpenGL
+
+- [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
+- [OpenGL Tutorials](https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-) by [Victor Gordan](https://www.youtube.com/@VictorGordan) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based introductory course
+- [OpenGL for Beginners](https://www.youtube.com/playlist?list=PLA0dXqQjCx0S04ntJKUftl6OaOgsiwHjA) by [Etay Meiri](https://www.youtube.com/@OGLDEV) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _opengl_ ) : OpenGL-based introductory course
+- [Intermediate OpenGL](https://www.youtube.com/playlist?list=PLA0dXqQjCx0TKQiXRyQU62KQgcTE6E92f) by [Etay Meiri](https://www.youtube.com/@OGLDEV) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _opengl_ ) : OpenGL-based intermediate course
 
 ## Lines
 
@@ -228,6 +240,8 @@ Curated collection of lists of useful resources to learn computer graphics toget
 
 - ( _unity_ ) - related to Unity
 - ( _godot_ ) - related to Godot
-- ( _opengl_ ) - related to OpenGL
+- ( _opengl_ ) - related to OpenGL rendering backend
+- ( _vulkan_ ) - related to OpenGL rendering backend
 - ( _webgl_ ) - related to WebGL
 - ( _opencv_ ) - related to OpenCV
+- ( _cpp_ ) - related to C++
