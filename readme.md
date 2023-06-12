@@ -10,6 +10,7 @@ This repostory contains nearly dozen curated collections: learning materials, to
 
 Here you can find:
 
-- __:mortar_board:__ [Learn](./learn.md) : collection of materials to learn Graphics.
-- __:old_key:__ [Comprehend](./concepts.md) : key concepts and dichotomies of Graphics.
-- __:chart_with_upwards_trend:__ [Systemize](./cheatsheets.md) : cheat sheets on Graphics.
+- :mortar_board: [Learn](./learn.md) : collection of materials to learn Graphics.
+- :old_key: [Comprehend](./concepts.md) : key concepts and dichotomies of Graphics.
+- :chart_with_upwards_trend: [Systemize](./cheatsheets.md) : cheat sheets on Graphics.
+- :wrench: [Explore](./toolbox_general.md) : toolbox of useful open source projects to reuse.

@@ -1,13 +1,10 @@
+# Toolbox
 
-## Tags legend
+Curated collection of lists of useful open source project to program computer graphics together.
 
-- ( _lib_ ) -- library
-- ( _shader_ ) -- project/library with shader
-- ( _rust_ ) -- written in Rust
-- ( _js_ ) -- written in JavaScript
-- ( _c/c++_ ) -- written in C/C++
-- ( _oit_ ) -- topic related to order-independent transparency
+[:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
+<!-- - []() by []() : -->
 
 ## Renderers
 
@@ -37,3 +34,12 @@
 
 - [`plotlib` - generic data visualisation and plotting library for Rust](https://github.com/milliams/plotlib) by [Matt Williams](https://github.com/milliams) ( _lib_ ) ( _rust_ )
 - [`plotly` - a plotting library for Rust powered by Plotly.js](https://github.com/igiagkiozis/plotly) by [Ioannis Giagkiozis](https://github.com/igiagkiozis) ( _lib_ ) ( _rust_ )
+
+## Tags legend
+
+- ( _lib_ ) -- library
+- ( _shader_ ) -- project/library with shader
+- ( _rust_ ) -- written in Rust
+- ( _js_ ) -- written in JavaScript
+- ( _c/c++_ ) -- written in C/C++
+- ( _oit_ ) -- topic related to order-independent transparency
