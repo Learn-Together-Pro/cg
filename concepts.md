@@ -1,4 +1,4 @@
-# Key concepts of Discrete Math
+# Key concepts of Graphics
 
 Key concepts of Graphics
 

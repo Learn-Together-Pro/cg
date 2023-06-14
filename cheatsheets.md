@@ -1,4 +1,4 @@
-# Cheatsheets of Discrete Math.
+# Cheatsheets for Graphics.
 
 <!-- [:arrow_down: Tags legend](#tags-legend) at the end of the page. -->
 
@@ -16,17 +16,12 @@
 
 ![Coordinates Systems](./cheatsheet/coordinate_systems.png)
 
-## Orthographic vs Perspective Frustum
+## Orthographic vs Perspective
 
 ( _math_ ) ( _transformation_ )
 
 ![Orthographic Frustum](./cheatsheet/orthographic_frustum.png)
 ![Perspective Frustum](./cheatsheet/perspective_frustum.png)
-
-## Perspective vs Orthographic
-
-( _math_ ) ( _transformation_ )
-
 ![Perspective vs Orthographic](./cheatsheet/perspective_orthographic.png)
 
 ## Perspective Distortion

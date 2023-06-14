@@ -1,6 +1,6 @@
 # Graphics
 
-Curated collection of lists of useful resources to learn computer graphics together.
+Curated collection of lists of useful resources to master computer graphics together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
