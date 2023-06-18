@@ -1,4 +1,4 @@
-# Graphics
+# :mortar_board: Graphics
 
 Curated collection of lists of useful resources to master computer graphics together.
 
@@ -8,12 +8,12 @@ Curated collection of lists of useful resources to master computer graphics toge
 
 ## Basic
 
-( _basic_ )
+( _introductory_ )
 
-- :star: [Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good introductory course on graphics
-- :star: [Interactive Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _basic_ ) : very good advanced course on graphics
-- :star: [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
-- [GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) :mortar_board: :movie_camera: ( _basic_ ) ( _unity_ ) : Unity-based introduction to graphics
+- :star: [Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _introductory_ ) : very good introductory course on graphics
+- :star: [Interactive Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _introductory_ ) : very good advanced course on graphics
+- :star: [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _introductory_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
+- [GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) :mortar_board: :movie_camera: ( _introductory_ ) ( _unity_ ) : Unity-based introduction to graphics
 - [Learn OpenGL](https://learnopengl.com/Introduction) by [learnopengl.com](https://learnopengl.com) :mortar_board: :page_facing_up: : good textual curse on graphics
 - [OpenGL Tutorials](http://www.opengl-tutorial.org/beginners-tutorials/) by [opengl-tutorial.org](https://opengl-tutorial.org) :mortar_board: :page_facing_up: : good textual curse on graphics
 
@@ -77,7 +77,7 @@ Curated collection of lists of useful resources to master computer graphics toge
 
 ( _vr_ )
 
-- [Virtual Reality](https://stanford.edu/class/ee267/lectures/) by [Stanford University](https://www.stanford.edu/) :mortar_board: :page_facing_up: ( _basic_ ) ( _vr_ )
+- [Virtual Reality](https://stanford.edu/class/ee267/lectures/) by [Stanford University](https://www.stanford.edu/) :mortar_board: :page_facing_up: ( _introductory_ ) ( _vr_ )
 
 ## Computer Vision
 
@@ -109,14 +109,14 @@ Curated collection of lists of useful resources to master computer graphics toge
 
 ( _vulkan_ )
 
-- [Vulkan Game Engine](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR) by [Brendan Galea](https://www.youtube.com/@BrendanGalea) :mortar_board: :movie_camera: ( _basic_ ) ( _vulkan_ ) ( _cpp_ ) : Vulkan-based introductory course
+- [Vulkan Game Engine](https://www.youtube.com/playlist?list=PL8327DO66nu9qYVKLDmdLW_84-yE4auCR) by [Brendan Galea](https://www.youtube.com/@BrendanGalea) :mortar_board: :movie_camera: ( _introductory_ ) ( _vulkan_ ) ( _cpp_ ) : Vulkan-based introductory course
 
 ## Backend: OpenGL
 
-- [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
-- [OpenGL Tutorials](https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-) by [Victor Gordan](https://www.youtube.com/@VictorGordan) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based introductory course
-- [OpenGL for Beginners](https://www.youtube.com/playlist?list=PLA0dXqQjCx0S04ntJKUftl6OaOgsiwHjA) by [Etay Meiri](https://www.youtube.com/@OGLDEV) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based introductory course
-- [Intermediate OpenGL](https://www.youtube.com/playlist?list=PLA0dXqQjCx0TKQiXRyQU62KQgcTE6E92f) by [Etay Meiri](https://www.youtube.com/@OGLDEV) :mortar_board: :movie_camera: ( _basic_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based intermediate course
+- [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _introductory_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
+- [OpenGL Tutorials](https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-) by [Victor Gordan](https://www.youtube.com/@VictorGordan) :mortar_board: :movie_camera: ( _introductory_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based introductory course
+- [OpenGL for Beginners](https://www.youtube.com/playlist?list=PLA0dXqQjCx0S04ntJKUftl6OaOgsiwHjA) by [Etay Meiri](https://www.youtube.com/@OGLDEV) :mortar_board: :movie_camera: ( _introductory_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based introductory course
+- [Intermediate OpenGL](https://www.youtube.com/playlist?list=PLA0dXqQjCx0TKQiXRyQU62KQgcTE6E92f) by [Etay Meiri](https://www.youtube.com/@OGLDEV) :mortar_board: :movie_camera: ( _introductory_ ) ( _opengl_ ) ( _cpp_ ) : OpenGL-based intermediate course
 
 ## Lines
 
@@ -160,7 +160,7 @@ Curated collection of lists of useful resources to master computer graphics toge
 <!- - [Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine": Depth peeling via bucket sort] (https://drive.google.com/file/d/1199PPCQka5oFZq9_Q09htGEeriLLnPO6/view) ->
 <!- Chaper 1 of Book "GPU Pro 360 Guide to 3DEngine ->
 - [Weighted blended method example using Cesium](http://bagnell.github.io/cesium/Apps/Sandcastle/gallery/OIT.html) by [Dan Bagnell](https://github.com/bagnell) ( _example_ )
-- [Collection of information about multifragment rendering](https://github.com/cgaueb/MFR) by [Computer Graphics AUEB](http://graphics.cs.aueb.gr/graphics/index.html) ( _project_ )
+- [Collection of information about multifragment rendering](https://github.com/cgaueb/MFR) by [Computer Graphics AUEB](http://graphics.cs.aueb.gr/graphics/index.html) :building_construction:
 - [Deep G-Buffers for stable global illumination approximation](https://research.nvidia.com/sites/default/files/pubs/2016-06_Deep-G-Buffers-for/Mara2016DeepGBuffer-extended-bright.pdf) by [Michael Mara](https://research.nvidia.com/search/node/Michael%20Mara) ( _official_ ) :page_facing_up: ( _article_ )
 - [Fast and Accurate Single-Pass A-Buffer using OpenGL 4.0+](https://blog.icare3d.org/2010/06/fast-and-accurate-single-pass-buffer.html) by [Cyril Crassin](https://research.nvidia.com/person/cyril-crassin) :page_facing_up: ( _article_ )
 - [A Survey of Multifragment Rendering](https://github.com/cgaueb/MFR/blob/master/Multimedia/EG2020_STAR_presentation.pptx) by [Andreas-Alexandros Vasilakis](https://www.computer.org/csdl/home) ( _official_ ) :page_facing_up:
@@ -206,11 +206,12 @@ Curated collection of lists of useful resources to master computer graphics toge
 - :card_file_box: - reference or manual or a standard
 - :open_file_folder: - collections of collections
 - :pirate_flag: - non-english
+- :page_facing_up: - either single article or single video-tutorial
+- :building_construction: - ideas for inspiration of mini-projects to add to your portfolio
 - ( _official_ ) - official material
-- :page_facing_up: ( _article_ ) - either single article or single video-tutorial
 - ( _interactive_ ) - it is possible to interact and get feedback from the system
 - ( _blog_ ) - blogs
-- ( _project_ ) - a project
+- :building_construction: - a project
 - ( _example_ ) - code sample that can be executed
 
 ##### Math
@@ -225,7 +226,7 @@ Curated collection of lists of useful resources to master computer graphics toge
 
 ##### Specific Domain
 
-- ( _basic_ ) - basic learning material
+- ( _introductory_ ) - introductory learning material
 - ( _line_ ) - related to drawing lines
 - ( _2d_ ) - related to 2d graphics
 - ( _3d_ ) - related to 3d graphics

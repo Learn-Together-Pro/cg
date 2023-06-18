@@ -1,4 +1,4 @@
-# Learn Graphics Together
+# 🧭 Learn Graphics Together
 
 Awesome collection of learning materials to master Graphics.
 
