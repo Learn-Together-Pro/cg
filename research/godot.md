@@ -20,7 +20,7 @@ User can disable automatic conversion by removing this hint.
 Other renders (Vulkan 2D and OpenGL ES 3.0 3D/2D) expect the shader output to be in sRGB color space. Also, Godot doesn't do any automatic conversions for uniforms, marked with `source_color` attribute. If user wants to do blending (or other color transformations), one should transform input colors to linear color space manually and then transform the result to sRGB.
 
 ### OUTPUT_IS_SRGB flag
-Godot spatial shaders (shaders for rendering 3D objects) have special variable `OUTPUT_IS_SRGB` that is set to `true` for OpenGL based 3D render and to `false` for Vulkan based 3D shader. It is `true` if shader result is expected to be is sRGB color space.
+Godot spatial shaders (shaders for rendering 3D objects) have special variable `OUTPUT_IS_SRGB` that is set to `true` for OpenGL based 3D render and to `false` for Vulkan based 3D shader. It is `true` if shader result is expected to be in sRGB color space.
 
 ### Summary
 
@@ -32,4 +32,3 @@ All of the above can be summarized in a table:
 | Forward+ / Mobile 2D | No expectations              | No                              | sRGB                 |
 | Compatibility 3D     | No expectations              | No                              | sRGB                 |
 | Compatibility 2D     | No expectations              | No                              | sRGB                 |
-```
