@@ -41,4 +41,4 @@ TODO
 
 ### Links:
 - [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/)
-- [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd10)
+- [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
