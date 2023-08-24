@@ -117,7 +117,7 @@ Bucket Sort DP - DP - Dual DP - K-buffer - Fragment Sort DP
 
 Card: NVIDIA Geforce 8800 GTX
 
-![](./img/BucketSort.png)
+![](./BucketSort.png)
 
 
 ## Summary
