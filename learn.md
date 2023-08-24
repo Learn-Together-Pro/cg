@@ -201,7 +201,7 @@ Curated collection of lists of useful resources to master computer graphics toge
 - :movie_camera: - video material to watch
 - :page_facing_up: - reading
 - :book: - a book
-- :mortar_board: - online course with or without feedback
+- :mortar_board: - online course with or without feedback  <!-- xxx -->
 - :chart_with_upwards_trend: - cheat sheets
 - :card_file_box: - reference or manual or a standard
 - :open_file_folder: - collections of collections
