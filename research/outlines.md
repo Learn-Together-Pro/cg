@@ -41,4 +41,7 @@ TODO
 
 ### Links:
 - [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/)
-- [The Quest for Very Wide Outlines](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
+- [Edge detection outline shader](https://roystan.net/articles/outline-shader/)
+- [Vertex extrusion outline shader](https://www.videopoetics.com/tutorials/pixel-perfect-outline-shaders-unity/)
+- [Rendering Soft outlines in Unreal Engine (Blurred buffer)](https://www.tomlooman.com/unreal-engine-soft-outline/)
+- [The Quest for Very Wide Outlines (Jump Flood algorithm for outlines)](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
