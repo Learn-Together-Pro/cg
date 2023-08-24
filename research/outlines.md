@@ -36,8 +36,15 @@ Disadvantage:
 - Bigger performance hit, compared to other methods
 
 ### Jump Flood Algorithm
-TODO
+Jump flood algorithm has log(n) complexity (n is an image resolution) and is used in the construction of Voronoi diagrams and distance transforms. It also can be redesigned to be used for outline calculations.
 
+We generate a texture where every point in object silhouette stores a 0 distance and other points store some "infinite" distance. We start the jump flood algorithm that is an algorithm for finding the closest distance to some object for every texture pixel. That means that after several steps each point will store the distance to the sillhouette and we can use this information to generate outlines.
+
+Advantages:
+- No need to for extra mesh setup
+- Good for drawing fat outlines (without performance hit)
+Disadvantage:
+- Additional render pass setup
 
 ### Links:
 - [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/)
@@ -45,3 +52,4 @@ TODO
 - [Vertex extrusion outline shader](https://www.videopoetics.com/tutorials/pixel-perfect-outline-shaders-unity/)
 - [Rendering Soft outlines in Unreal Engine (Blurred buffer)](https://www.tomlooman.com/unreal-engine-soft-outline/)
 - [The Quest for Very Wide Outlines (Jump Flood algorithm for outlines)](https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9)
+- [Jump Flood algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Jump_flooding_algorithm)
