@@ -36,7 +36,8 @@ Advantages:
 
 Disadvantages:
 - Additional render pass setup
-- Bigger performance hit, compared to other methods
+- Can have bigger performance footprint, compared to other methods (depends on blur algorithm)
+- Only outlines outside of the object silhouette can be drawn, if one desires to outline object parts regardless of whether they are inside/outside the silhouette of the object, previous methods should be used
 
 ### Jump Flood Algorithm
 Jump flood algorithm has log(n) complexity (n is an image resolution) and is used in the construction of Voronoi diagrams and distance transforms. It also can be redesigned to be used for outline calculations.
@@ -49,6 +50,7 @@ Advantages:
 
 Disadvantages:
 - Additional render pass setup
+- Only outlines outside of the object silhouette can be drawn, if one desires to outline object parts regardless of whether they are inside/outside the silhouette of the object, previous methods should be used
 
 ### Links:
 - [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/)
