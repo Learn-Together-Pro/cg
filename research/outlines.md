@@ -6,7 +6,8 @@ The idea is to detect discontinuities in the scene to render outlines there. It 
 Advantages:
 - Simple to make if you have buffers to analyze data from
 - Works good for full-screen outlining
-Disadvantage:
+
+Disadvantages:
 - It's hard to get it work for some local image part, special data should be supplied in some way.
 
 ### Vertex Extrusion
@@ -21,7 +22,8 @@ One can use vertex normals for extrusion but this can lead to [artifacts](https:
 Advantages:
 - Simple to make
 - Has moderate performance
-Disadvantage:
+
+Disadvantages:
 - Doesn't work for sharp edges if using standart normals
 - Requires additional work when using custom extrusion normals
 
@@ -31,7 +33,8 @@ The idea is to render out object to the separate buffer (a.k.a **silhouette buff
 Advantages:
 - No need to for extra mesh setup
 - Easy soft/glowy outlines
-Disadvantage:
+
+Disadvantages:
 - Additional render pass setup
 - Bigger performance hit, compared to other methods
 
@@ -43,7 +46,8 @@ We generate a texture where every point in object silhouette stores a 0 distance
 Advantages:
 - No need to for extra mesh setup
 - Good for drawing fat outlines (without performance hit)
-Disadvantage:
+
+Disadvantages:
 - Additional render pass setup
 
 ### Links:
