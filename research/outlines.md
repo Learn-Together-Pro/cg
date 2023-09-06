@@ -6,7 +6,8 @@ The idea is to detect discontinuities in the scene to render outlines there. It 
 Advantages:
 - Simple to make if you have buffers to analyze data from
 - Works good for full-screen outlining
-Disadvantage:
+
+Disadvantages:
 - It's hard to get it work for some local image part, special data should be supplied in some way.
 
 ### Vertex Extrusion
@@ -21,7 +22,8 @@ One can use vertex normals for extrusion but this can lead to [artifacts](https:
 Advantages:
 - Simple to make
 - Has moderate performance
-Disadvantage:
+
+Disadvantages:
 - Doesn't work for sharp edges if using standart normals
 - Requires additional work when using custom extrusion normals
 
@@ -31,9 +33,11 @@ The idea is to render out object to the separate buffer (a.k.a **silhouette buff
 Advantages:
 - No need to for extra mesh setup
 - Easy soft/glowy outlines
-Disadvantage:
+
+Disadvantages:
 - Additional render pass setup
-- Bigger performance hit, compared to other methods
+- Can have bigger performance footprint, compared to other methods (depends on blur algorithm)
+- Only outlines outside of the object silhouette can be drawn, if one desires to outline object parts regardless of whether they are inside/outside the silhouette of the object, previous methods should be used
 
 ### Jump Flood Algorithm
 Jump flood algorithm has log(n) complexity (n is an image resolution) and is used in the construction of Voronoi diagrams and distance transforms. It also can be redesigned to be used for outline calculations.
@@ -43,8 +47,10 @@ We generate a texture where every point in object silhouette stores a 0 distance
 Advantages:
 - No need to for extra mesh setup
 - Good for drawing fat outlines (without performance hit)
-Disadvantage:
+
+Disadvantages:
 - Additional render pass setup
+- Only outlines outside of the object silhouette can be drawn, if one desires to outline object parts regardless of whether they are inside/outside the silhouette of the object, previous methods should be used
 
 ### Links:
 - [5 ways to draw an outline](https://ameye.dev/notes/rendering-outlines/)
