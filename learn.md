@@ -11,7 +11,7 @@ Curated collection of lists of useful resources to master computer graphics toge
 ( _introductory_ )
 
 - :star: [Introduction to Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _introductory_ ) : very good introductory course on graphics
-- :star: [Interactive Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _introductory_ ) : very good advanced course on graphics
+- :star: [Interactive Computer Graphics](https://www.youtube.com/playlist?list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN) by [Cem Yuksel](https://www.youtube.com/@cem_yuksel) :mortar_board: :movie_camera: ( _introductory_ ) : very good advanced course on graphics
 - :star: [OpenGL](https://www.youtube.com/playlist?list=PLIbUZ3URbL0ESKHrvzXuHjrcLi7gxhBby) by [Brian Will](https://www.youtube.com/@briantwill) :mortar_board: :movie_camera: ( _introductory_ ) ( _opengl_ ) : very good video course on graphics and OpenGL
 - [Computer Graphics](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) by [Keenan Crane](https://www.youtube.com/@keenancrane) :mortar_board: :movie_camera: ( _introductory_ ) ( _opengl_ ) : more theoretical and quite broad introduction to CG
 - [GPU Programming for Video Games](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w) by [Aaron Lanterman](https://www.youtube.com/c/Lantertronics) :mortar_board: :movie_camera: ( _introductory_ ) ( _unity_ ) : Unity-based introduction to graphics
